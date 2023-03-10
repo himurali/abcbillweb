@@ -10,7 +10,7 @@ const config = {
   tagline: "health happy and strong nation with bicycles",
   url: "https://www.nammacycle.in",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "NAMMACYCLE", // Usually your GitHub org/user name.
@@ -92,7 +92,7 @@ const config = {
           { to: "/strategy", label: "Strategy", position: "left" },
          { to: "/vision", label: "Vision", position: "left" },
           { to: "/impact", label: "Impact", position: "left" },
-          { to: "/sme", label: "Support Us", position: "left" },
+          { to: "/support", label: "Support Us", position: "left" },
           {
             type: 'doc',
             docId: 'intro',

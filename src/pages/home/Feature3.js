@@ -14,7 +14,7 @@ export default function Feature3 () {
         height: 400,
 
         backgroundImage:
-          "url('https://images.unsplash.com/photo-1634089729539-d229d916cda9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1337&q=80')",
+          "url('https://images.unsplash.com/photo-1533788179956-82e8a027c962?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80')",
       };
 
       
@@ -28,13 +28,16 @@ export default function Feature3 () {
          </div>
  
          <div className="max-w-xl px-16 py-12 lg:max-w-5xl lg:w-1/2">
+             
              <h2 className="text-2xl font-semibold text-gray-800 dark:text-white md:text-3xl">
-               Cargo  <br></br> Developing products and services   <span className="text-blue-500">for bicycle logistics</span>
+            Active Mobility  infrastructure -   <br></br>  creating infrastructure for 
+               <span className="text-blue-500"> safe and conducive environment    for walking and cycling .</span>
              </h2>
  
              <p className="mt-4 text-gray-500 dark:text-gray-300">
-             Last mile logistics -   - create more liveable cities.
+             Robust design  & execution and deployment and delivery management.
              </p>
+              
  
              <div className="inline-flex w-full mt-6 sm:w-auto">
                     

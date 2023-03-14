@@ -5,10 +5,14 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext"; 
  
 
-import Herosection from "./home/Herosection"
+import Herosection2 from "./home/Herosection2"
 import Feature1 from "./home/Feature1"
 import Feature2 from "./home/Feature2";
 import Feature3 from "./home/Feature3";
+
+
+import Feature4Infra2 from "./home/Feature4Infra2";
+import Feature5Research from "./home/Feature5Research";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -36,10 +40,14 @@ export default function HomePage() {
     >
        
       <main>
-      
+        <Herosection2/>
+        <Feature4Infra2></Feature4Infra2>
+
         <Feature1></Feature1>
         <Feature2></Feature2>
         <Feature3></Feature3>
+        
+        <Feature5Research></Feature5Research>
           </main>
     </Layout>
   );

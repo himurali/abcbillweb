@@ -2,6 +2,7 @@ import React from 'react';
 import clsx from 'clsx';   
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+import Vimeo from '@u-wave/react-vimeo';
 
 
 
@@ -19,8 +20,16 @@ export default function Herosection () {
         </div>
 
         <div className="flex justify-center mt-10">
-            <img className="object-cover w-full  rounded-xl lg:w-4/5" src="http://thewire.in/wp-content/uploads/2015/11/17741791036_83233c09db_h.jpg" />
+
+        <Vimeo
+  video="775014516"
+  muted="true"
+  autoplay
+/>
+         
         </div>
+
+   
     </div>
 </section>
 

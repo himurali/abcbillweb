@@ -5,7 +5,7 @@ import clsx from 'clsx';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 
-
+import Vimeo from '@u-wave/react-vimeo';
 
 export default function Feature1 () {
 
@@ -32,11 +32,15 @@ export default function Feature1 () {
              <p className="mt-4 text-gray-500 dark:text-gray-300">
              Make cycling is an integral part of everyday life, promoting a cleaner environment, reducing traffic congestion, and creating more vibrant and connected communities.
              </p>
+
+             
  
              <div className="inline-flex w-full mt-6 sm:w-auto">
-                 <a href="#" className="inline-flex items-center justify-center w-full px-6 py-2 text-sm text-white duration-300 bg-gray-800 rounded-lg hover:bg-gray-700 focus:ring focus:ring-gray-300 focus:ring-opacity-80">
-                     Start Now - Support Us
-                 </a>
+             <div>
+    
+
+
+    </div>
              </div>
          </div>
      </div>

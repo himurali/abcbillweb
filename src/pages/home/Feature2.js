@@ -28,11 +28,12 @@ export default function Feature2 () {
  
          <div className="max-w-xl px-16 py-12 lg:max-w-5xl lg:w-1/2">
              <h2 className="text-2xl font-semibold text-gray-800 dark:text-white md:text-3xl">
-             Atmanirbhar <span className="text-blue-500">for bicycle manufacturing </span>
+             Economy & Development Atmanirbhar <span className="text-blue-500">for bicycle manufacturing </span>
              </h2>
  
              <p className="mt-4 text-gray-500 dark:text-gray-300">
-             fostering innovation, entrepreneurship, and collaboration in the bicycle industry
+             fostering innovation, entrepreneurship, and collaboration in the bicycle industry 
+             
              </p>
  
              <div className="inline-flex w-full mt-6 sm:w-auto">

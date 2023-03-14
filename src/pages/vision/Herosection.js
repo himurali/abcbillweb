@@ -21,11 +21,7 @@ export default function Herosection () {
 
         <div className="flex justify-center mt-10">
 
-        <Vimeo
-  video="775014516"
-  muted="true"
-  autoplay
-/>
+  
          
         </div>
 

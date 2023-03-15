@@ -9,7 +9,12 @@ import Herosection from "./Herosection"
 import Feature1 from "./Feature1"
 import Feature2 from "./Feature2";
 import Feature3 from "./Feature3";
+import TfeatureGov from "./TfeatureGov";
+import TfeatureInfra from "./TfeatureInfra"
 
+import TfeatureEconomy from "./TfeatureEconomy"
+import TfeatureJustice from "./TfeatureJustice"
+import TfeatureResearch from "./TfeatureResearch";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -32,13 +37,18 @@ export default function HomePage() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description=" Trigger the active mobility transformation"
     >
        
       <main>
       
         <Herosection/>
-        <Feature1></Feature1> 
+      
+        <TfeatureGov></TfeatureGov>
+        <TfeatureInfra></TfeatureInfra>
+        <TfeatureEconomy></TfeatureEconomy>
+        <TfeatureJustice></TfeatureJustice>
+        <TfeatureResearch></TfeatureResearch>
           </main>
     </Layout>
   );

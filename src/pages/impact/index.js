@@ -31,16 +31,16 @@ export default function HomePage() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`Impact from ${siteConfig.title}`}
+      description=" Trigger the active mobility transformation"
     >
        
       <main>
       
         <Herosection/>
-        <Feature1></Feature1>
-        <Feature2></Feature2>
-        <Feature3></Feature3>
+        <Herosection/>
+        <Herosection/>
+     
           </main>
     </Layout>
   );

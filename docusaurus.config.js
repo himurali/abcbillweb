@@ -85,7 +85,7 @@ const config = {
         title: "ABC Bill",
         logo: {
           alt: "Nammacycle Logo",
-          src: "img/namma.jpg",
+          src: "img/logoabc.png",
         },
         items: [
         
@@ -144,7 +144,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Namma Cycle .`,
+        copyright: `Copyright © ${new Date().getFullYear()} Namma Nimma Cycle Foundation.`,
       },
       prism: {
         theme: lightCodeTheme,

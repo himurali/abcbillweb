@@ -37,11 +37,11 @@ export default function HomePage() {
     >
        
       <main>
-      
+      <Feature3></Feature3>
+
         <Herosection/>
-        <ImpactFeature2/>
-        <Herosection/>
-     
+        <ImpactFeature2></ImpactFeature2>
+
           </main>
     </Layout>
   );

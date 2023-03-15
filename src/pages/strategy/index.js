@@ -8,6 +8,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Herosection from "./Herosection"
 import Feature1 from "./Feature1"
 import Feature4 from "./Feature4";
+import Feature3 from "./Feature3";
 import Feature5 from "./Feature5";
 
 function HomepageHeader() {
@@ -37,10 +38,9 @@ export default function HomePage() {
        
       <main>
       
-        <Herosection/>
-        <Feature1></Feature1>
-        <Feature4></Feature4>
-     
+      
+        <Feature5></Feature5>
+
           </main>
     </Layout>
   );

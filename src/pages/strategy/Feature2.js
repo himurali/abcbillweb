@@ -21,7 +21,7 @@ export default function Feature2 () {
      <div
          className="overflow-hidden bg-white dark:bg-gray-900 lg:mx-8 lg:flex lg:max-w-6xl lg:w-full lg:shadow-md lg:rounded-xl">
          <div className="lg:w-1/2">
-             <div className="h-64 bg-cover lg:h-full "  style={myStyle1}></div>
+             <div className="h-64 bg-cover lg:h-full"  ></div>
          </div>
  
          <div className="max-w-xl px-6 py-12 lg:max-w-5xl lg:w-1/2">

@@ -5,13 +5,9 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext"; 
  
 
-import Herosection from "./Herosection"
-import Feature2 from "./Feature2"
-import Feature4 from "./Feature4";
-import Feature5 from "./Feature5";
-import Feature3 from "./Feature3";
+import Herosection from "./aboutus/Herosection"  
 
-function HomepageHeader() {
+function AboutPageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className="bg-white-500">
@@ -28,22 +24,17 @@ function HomepageHeader() {
   );
 }
 
-export default function HomePage() {
+export default function AboutPage() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`Kickstarting Revolution by ${siteConfig.title}`}
+      description=" Trigger the active mobility transformation"
     >
        
       <main>
-      
         <Herosection/>
-
-        <p></p>
-        <Feature3></Feature3>
-
-          </main>
+      </main>
     </Layout>
   );
 }

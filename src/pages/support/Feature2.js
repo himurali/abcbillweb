@@ -17,30 +17,75 @@ export default function Feature2 () {
       
   return (
      
-     <div>  <section className="bg-gray-100 dark:bg-gray-800 lg:py-12 lg:flex lg:justify-center" >
-     <div
-         className="overflow-hidden bg-white dark:bg-gray-900 lg:mx-8 lg:flex lg:max-w-6xl lg:w-full lg:shadow-md lg:rounded-xl">
-         <div className="lg:w-1/2">
-             <div className="h-64 bg-cover lg:h-full "  style={myStyle1}></div>
-         </div>
+     <div>  <section className="bg-gray-100 dark:bg-gray-800 lg:py-112 lg:flex lg:justify-center" >
+   
  
-         <div className="max-w-xl px-6 py-12 lg:max-w-5xl lg:w-1/2">
-             <h2 className="text-2xl font-semibold text-gray-800 dark:text-white md:text-3xl">
-             Offering products and services <span className="text-blue-500">for bicycle manufacturing </span>
-             </h2>
- 
-             <p className="mt-4 text-gray-500 dark:text-gray-300">
-               Market Place - SME for active mobility products
+<div>      
+	<div className="bannerFondo bg-green-800	bg-left-top bg-auto bg-repeat-x"  style={myStyle1} >
+	</div>
 
-             </p>
- 
-             <div className="inline-flex w-full mt-6 sm:w-auto">
-                 <a href="#" className="inline-flex items-center justify-center w-full px-6 py-2 text-sm text-white duration-300 bg-gray-800 rounded-lg hover:bg-gray-700 focus:ring focus:ring-gray-300 focus:ring-opacity-80">
-                     Start Now
-                 </a>
-             </div>
-         </div>
-     </div>
+      <div className="-mt-64 ">
+        <div className="w-full text-center">
+         
+      </div>
+              
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-3 ">
+  
+          <div className="p-2 sm:p-10 text-center cursor-pointer">
+              <div className="py-16 max-w-sm rounded overflow-hidden shadow-lg hover:bg-white transition duration-500  bg-white">
+                  <div className="space-y-10">
+                      <i className="fa fa-spa" ></i>
+                      
+                      <div className="px-6 py-4">
+                          <div className="space-y-5">
+                              <div className="font-bold text-xl mb-2">Spa</div>
+                              <p className="text-gray-700 text-base">
+                                  Todo tipo de masajes y técnicas
+                              </p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+  
+          <div className="p-2 sm:p-10 text-center cursor-pointer text-white"> 
+              <div className="py-16 max-w-sm rounded overflow-hidden shadow-lg bg-orange-500 hover:bg-orange-600 transition duration-500">
+                  <div className="space-y-10">
+                    <i className="fa fa-head-side-mask"  ></i>
+                      <div className="px-6 py-4">
+                          <div className="space-y-5">
+                              <div className="font-bold text-xl mb-2">Bioseguridad</div>
+                              <p className="text-base">
+                                  Altos estandares de bioseguridad
+                              </p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+  
+          <div className="p-2 sm:p-10 text-center cursor-pointer translate-x-2">
+              <div className="py-16 max-w-sm rounded overflow-hidden shadow-lg hover:bg-white transition duration-500 bg-white ">
+                  <div className="space-y-10">
+                      <i className="fa fa-swimmer" ></i>
+                      
+                      <div className="px-6 py-4">
+                          <div className="space-y-5">
+                              <div className="font-bold text-xl mb-2">Piscina</div>
+                              <p className="text-gray-700 text-base">
+                                  Piscina temperada
+                              </p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+  
+      </div>
+      </div>
+  
+  </div>
+
  </section>
 
     

@@ -31,21 +31,10 @@ export default function Herosection() {
                       hypertension, which affect approximately 80 million and
                       200 million Indians, respectively.
                     </p>
-                    <button className="flex items-center cursor-pointer pb-4 md:pb-0 focus:ring-2 focus:ring-offset-2 focus:ring-indigo-700 focus:outline-none">
-                      <span
-                        aria-label="lets get started"
-                        role="button"
-                        className="focus outline-none f-f-r text-lg lg:text-2xl font-semibold underline text-indigo-700 dark:text-indigo-400"
-                      >
-                        Reduce by 10%{" "}
-                      </span>
-                      <div className="pl-2">
-                        <img
-                          src="https://tuk-cdn.s3.amazonaws.com/can-uploader/alternating_description_with_cards-svg1.svg"
-                          alt="arrow"
-                        ></img>
-                      </div>
-                    </button>
+                    <button type="button" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+  Reduce by 10%
+  
+</button>
                   </div>
                 </div>
                 <div className="lg:w-1/3 md:w-1/2 w-full relative h-96 flex items-end justify-center">
@@ -119,7 +108,7 @@ export default function Herosection() {
                     <div>
                       <h1
                         role="heading"
-                        className="text-2xl dark:text-white  lg:text-6xl md:leading-snug  font-blue-600"
+                        className="text-1xl dark:text-white  lg:text-6xl md:leading-snug  font-blue-600"
                       >
                         Cardio Vascular Deaths in India
                       </h1>
@@ -135,21 +124,10 @@ Ischemic heart disease (IHD) is the leading cause of cardiovascular deaths in In
 
 Other major cardiovascular diseases in India include stroke, hypertensive heart disease, rheumatic heart disease, and cardiomyopath
                     </p>
-                    <button className="flex items-center cursor-pointer pb-4 md:pb-0 focus:ring-2 focus:ring-offset-2 focus:ring-indigo-700 focus:outline-none">
-                      <span
-                        aria-label="lets get started"
-                        role="button"
-                        className="focus outline-none f-f-r text-lg lg:text-2xl font-semibold underline text-indigo-700 dark:text-indigo-400"
-                      >
-                        Reduce by 10%{" "}
-                      </span>
-                      <div className="pl-2">
-                        <img
-                          src="https://tuk-cdn.s3.amazonaws.com/can-uploader/alternating_description_with_cards-svg1.svg"
-                          alt="arrow"
-                        ></img>
-                      </div>
-                    </button>
+                    <button type="button" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+  Reduce by 10%
+  
+</button>
                   </div>
                 </div>
                 <div className="lg:w-1/3 md:w-1/2 w-full relative h-96 flex items-end justify-center">

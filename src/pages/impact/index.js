@@ -9,6 +9,7 @@ import Herosection from "./Herosection"
 import Feature1 from "./Feature1"
 import Feature2 from "./Feature2";
 import Feature3 from "./Feature3";
+import ImpactFeature2 from "./ImpactFeature2";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -38,7 +39,7 @@ export default function HomePage() {
       <main>
       
         <Herosection/>
-        <Herosection/>
+        <ImpactFeature2/>
         <Herosection/>
      
           </main>

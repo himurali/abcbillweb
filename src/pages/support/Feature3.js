@@ -32,10 +32,21 @@ export default function Feature3 () {
                  GET IN TOUCH WITH US
                </h2>
                <p className="text-body-color mb-9 text-base leading-relaxed">
-                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius
-                 tempor incididunt ut labore et dolore magna aliqua. Ut enim adiqua
-                 minim veniam quis nostrud exercitation ullamco
+               ABC Bill is a community initiative    being anchored by Namma Nimma Cycle Foundation a non-profit organization in Bangalore, 
+               India, with a mission to promote active mobility and sustainable transportation across Asia. 
+               <p>  Our  focus is on creating a culture of cycling, promoting the benefits of cycling, and advocating for cycling-friendly policies and infrastructure. Our  goal is to enable active mobility on a large scale, contributing to a healthier, cleaner, and more livable planet.
                </p>
+               <p>  Donations to NNCF  go towards supporting active mobility projects.</p>
+               <p>
+
+<a href="https://rzp.io/l/nammacyclesupport" class="items-center justify-center w-full px-6 py-3 text-center text-white duration-200 bg-black border-2 border-black nline-flex hover:bg-transparent hover:border-black rounded-xl hover:text-black focus:outline-none lg:w-auto focus-visible:outline-black focus-visible:ring-black">
+Donate                            </a>
+
+</p> 
+<p>    If you would like to know more about the impact your donation will have please get in touch.</p>
+              To enquire about partnership between your organisation and NNCF please get in touch.
+              </p>
+       
                <div className="mb-8 flex w-full max-w-[370px]">
                  <div
                    className="bg-primary text-primary mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
@@ -54,36 +65,13 @@ export default function Feature3 () {
                  <div className="w-full">
                    <h4 className="text-dark mb-1 text-xl font-bold">Our Location</h4>
                    <p className="text-body-color text-base">
-                     99 S.t Jomblo Park Pekanbaru 28292. Indonesia
+                     5th floor, Basappa Complex,
+                     <p> Lavelle Road,
+                     Bengaluru</p>
                    </p>
                  </div>
                </div>
-               <div className="mb-8 flex w-full max-w-[370px]">
-                 <div
-                   className="bg-primary text-primary mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
-                 >
-                   <svg
-                     width="24"
-                     height="26"
-                     viewBox="0 0 24 26"
-                     className="fill-current"
-                   >
-                     <path
-                       d="M22.6149 15.1386C22.5307 14.1704 21.7308 13.4968 20.7626 13.4968H2.82869C1.86042 13.4968 1.10265 14.2125 0.97636 15.1386L0.092295 23.9793C0.0501967 24.4845 0.21859 25.0317 0.555377 25.4106C0.892163 25.7895 1.39734 26 1.94462 26H21.6887C22.1939 26 22.6991 25.7895 23.078 25.4106C23.4148 25.0317 23.5832 24.5266 23.5411 23.9793L22.6149 15.1386ZM21.9413 24.4424C21.8992 24.4845 21.815 24.5687 21.6466 24.5687H1.94462C1.81833 24.5687 1.69203 24.4845 1.64993 24.4424C1.60783 24.4003 1.52364 24.3161 1.56574 24.1477L2.4498 15.2649C2.4498 15.0544 2.61819 14.9281 2.82869 14.9281H20.8047C21.0152 14.9281 21.1415 15.0544 21.1835 15.2649L22.0676 24.1477C22.0255 24.274 21.9834 24.4003 21.9413 24.4424Z"
-                     />
-                     <path
-                       d="M11.7965 16.7805C10.1547 16.7805 8.84961 18.0855 8.84961 19.7273C8.84961 21.3692 10.1547 22.6742 11.7965 22.6742C13.4383 22.6742 14.7434 21.3692 14.7434 19.7273C14.7434 18.0855 13.4383 16.7805 11.7965 16.7805ZM11.7965 21.2008C10.9966 21.2008 10.3231 20.5272 10.3231 19.7273C10.3231 18.9275 10.9966 18.2539 11.7965 18.2539C12.5964 18.2539 13.2699 18.9275 13.2699 19.7273C13.2699 20.5272 12.5964 21.2008 11.7965 21.2008Z"
-                     />
-                     <path
-                       d="M1.10265 7.85562C1.18684 9.70794 2.82868 10.4657 3.67064 10.4657H6.61752C6.65962 10.4657 6.65962 10.4657 6.65962 10.4657C7.92257 10.3815 9.18552 9.53955 9.18552 7.85562V6.84526C10.5748 6.84526 13.7742 6.84526 15.1635 6.84526V7.85562C15.1635 9.53955 16.4264 10.3815 17.6894 10.4657H17.7315H20.6363C21.4782 10.4657 23.1201 9.70794 23.2043 7.85562C23.2043 7.72932 23.2043 7.26624 23.2043 6.84526C23.2043 6.50847 23.2043 6.21378 23.2043 6.17169C23.2043 6.12959 23.2043 6.08749 23.2043 6.08749C23.078 4.90874 22.657 3.94047 21.9413 3.18271L21.8992 3.14061C20.8468 2.17235 19.5838 1.62507 18.6155 1.28828C15.795 0.193726 12.2587 0.193726 12.0903 0.193726C9.6065 0.235824 8.00677 0.446315 5.60716 1.28828C4.681 1.58297 3.41805 2.13025 2.36559 3.09851L2.3235 3.14061C1.60782 3.89838 1.18684 4.86664 1.06055 6.04539C1.06055 6.08749 1.06055 6.12959 1.06055 6.12959C1.06055 6.21378 1.06055 6.46637 1.06055 6.80316C1.10265 7.18204 1.10265 7.68722 1.10265 7.85562ZM3.37595 4.15097C4.21792 3.3932 5.27038 2.93012 6.15444 2.59333C8.34355 1.79346 9.7749 1.62507 12.1745 1.58297C12.3429 1.58297 15.6266 1.62507 18.1525 2.59333C19.0365 2.93012 20.089 3.3511 20.931 4.15097C21.394 4.65615 21.6887 5.32972 21.7729 6.12959C21.7729 6.25588 21.7729 6.46637 21.7729 6.80316C21.7729 7.22414 21.7729 7.68722 21.7729 7.81352C21.7308 8.78178 20.8047 8.99227 20.6784 8.99227H17.7736C17.3526 8.95017 16.679 8.78178 16.679 7.85562V6.12959C16.679 5.7928 16.4685 5.54021 16.1738 5.41392C15.9213 5.32972 8.55405 5.32972 8.30146 5.41392C8.00677 5.49811 7.79628 5.7928 7.79628 6.12959V7.85562C7.79628 8.78178 7.1227 8.95017 6.70172 8.99227H3.79694C3.67064 8.99227 2.74448 8.78178 2.70238 7.81352C2.70238 7.68722 2.70238 7.22414 2.70238 6.80316C2.70238 6.46637 2.70238 6.29798 2.70238 6.17169C2.61818 5.32972 2.91287 4.65615 3.37595 4.15097Z"
-                     />
-                   </svg>
-                 </div>
-                 <div className="w-full">
-                   <h4 className="text-dark mb-1 text-xl font-bold">Phone Number</h4>
-                   <p className="text-body-color text-base">(+62)81 414 257 9980</p>
-                 </div>
-               </div>
+              
                <div className="mb-8 flex w-full max-w-[370px]">
                  <div
                    className="bg-primary text-primary mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
@@ -101,51 +89,83 @@ export default function Feature3 () {
                  </div>
                  <div className="w-full">
                    <h4 className="text-dark mb-1 text-xl font-bold">Email Address</h4>
-                   <p className="text-body-color text-base">info@yourdomain.com</p>
+                   <p className="text-body-color text-base">murali@nammacycle.in</p>
                  </div>
                </div>
              </div>
            </div>
            <div className="w-full px-4 lg:w-1/2 xl:w-5/12">
              <div className="relative rounded-lg bg-white p-8 shadow-lg sm:p-12">
-               <form>
-                 <div className="mb-6">
-                   <input
-                     type="text"
-                     placeholder="Your Name"
-                     className="text-body-color border-[f0f0f0] focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
-                   />
-                 </div>
-                 <div className="mb-6">
-                   <input
-                     type="email"
-                     placeholder="Your Email"
-                     className="text-body-color border-[f0f0f0] focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
-                   />
-                 </div>
-                 <div className="mb-6">
-                   <input
-                     type="text"
-                     placeholder="Your Phone"
-                     className="text-body-color border-[f0f0f0] focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
-                   />
-                 </div>
-                 <div className="mb-6">
-                   <textarea
-                     rows="6"
-                     placeholder="Your Message"
-                     className="text-body-color border-[f0f0f0] focus:border-primary w-full resize-none rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
-                   ></textarea>
-                 </div>
-                 <div>
-                   <button
-                     type="submit"
-                     className="bg-primary border-primary w-full rounded border p-3 text-white transition hover:bg-opacity-90"
-                   >
-                     Send Message
-                   </button>
-                 </div>
-               </form>
+             <section>
+                <div className="relative items-center w-full px-5  mx-auto md:px-12 lg:px-16 max-w-7xl">
+                  <div className="w-full mx-auto text-left">
+                    <div className="relative flex-col items-center m-auto align-middle">
+                      <div className="items-center gap-12 text-left lg:gap-24 lg:inline-flex">
+                       
+                        <div className="flex flex-col mt-6 lg:mt-0">
+                          <div className="max-w-xl">
+                            <div>
+              
+                              <p className="text-3xl tracking-tight text-black ">
+                               Become a Sponsor or a Partner
+                              </p>
+                              <p>As a sponsor, you will have the opportunity to make a meaningful contribution to our cause and have a positive impact on the community. We are grateful for any support that we receive and look forward to working with you to promote active mobility and sustainable transportation.</p>
+                            </div>
+                          </div>
+                          <div className="mx-auto mt-6 lg:max-w-7xl">
+                            <ul role="list" className="grid grid-cols-2 gap-4 list-none lg:grid-cols-1 lg:gap-3">
+                              <li>
+                                <div>
+                                  <p className="mt-5 text-lg font-medium leading-6 text-black">
+                                  Sponsor Legal Team:
+                                  </p>
+                                </div>
+                                <div className="mt-2 text-base text-gray-500">
+                                 Legal team plays a key role in ensuring that our organization complies with all legal and regulatory requirements. By sponsoring our legal team, you can help us continue to provide legal assistance and guidance to our organization and the community we serve.
+                                </div>
+                              </li>
+                              <li>
+                                <div>
+                                  <p className="mt-5 text-lg font-medium leading-6 text-black">
+                                  Sponsor Campaign Funding:
+                                  </p>
+                                </div>
+                                <div className="mt-2 text-base text-gray-500">
+                                Our campaigns aim to create awareness about the benefits of active mobility and sustainable transportation. By sponsoring our campaigns, you can help us reach a wider audience and make a greater impact.                                </div>
+                              </li>
+                              <li>
+                                <div>
+                                  <p className="mt-5 text-lg font-medium leading-6 text-black">
+                                  Sponsor Research Team:                                  </p>
+                                </div>
+                                <div className="mt-2 text-base text-gray-500">
+                                Our research team is responsible for conducting studies and surveys to gather data on cycling and sustainable transportation. By sponsoring our research team, you can help us continue to gather valuable insights and data that inform our initiatives and policies.                                </div>
+                              </li>
+                              <li>
+                                <div>
+                                  <p className="mt-5 text-lg font-medium leading-6 text-black">
+                                  Sponsor Outreach Team:                                  </p>
+                                </div>
+                                <div className="mt-2 text-base text-gray-500">
+                                Our outreach team is responsible for engaging with the community and raising awareness about the benefits of active mobility. By sponsoring our outreach team, you can help us continue to organize events, workshops, and other outreach programs that promote cycling and sustainable transportation.                                </div>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <div>
+                          <div className="py-12 mx-auto lg:py-16">
+                            <div className="mt-6 grid grid-cols-2 gap-0.5 md:grid-cols-6 lg:mt-8">
+                               
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>            
                <div>
                  <span className="absolute -top-10 -right-9 z-[-1]">
                    <svg

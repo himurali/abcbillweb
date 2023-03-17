@@ -113,8 +113,14 @@ const config = {
           },
        
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/namma-nimma-cycle-foundation/ABCBill",
             label: "GitHub",
+            position: "right",  
+          },
+
+          {
+            href: "https://rzp.io/l/nammacyclesupport",
+            label: "Donate",
             position: "right",
           },
         ],

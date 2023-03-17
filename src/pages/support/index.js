@@ -38,7 +38,7 @@ export default function HomePage() {
        
       <main>
       
-        <Herosection/>
+       
 
         <p></p>
         <Feature3></Feature3>

@@ -66,7 +66,7 @@ export default function Feature5 () {
       <div className="px-6 pt-4 pb-2">
         <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
         <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-        <span className="inline-block bg-red-500  rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2 hover:bg-red-600 transition delay-50 duration-300 ease-in-out">#fall</span>
+        <span className="inline-block bg-red-500  rounded-full px-3 py-1 text-sm font-semibold text-white  mr-2 mb-2 hover:bg-red-600 transition delay-50 duration-300 ease-in-out">#fall</span>
       </div>
     </div>
   </div> 

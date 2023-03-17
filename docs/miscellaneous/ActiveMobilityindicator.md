@@ -28,3 +28,5 @@ An active mobility observatory is a tool used by cities to collect and analyze d
 
 The development and maintenance of active mobility observatories can be an important part of a city's efforts to promote sustainable transportation and reduce dependence on cars. By providing transparent and accurate information about sustainable transportation options, observatories can help to build public support for sustainable transportation initiatives, encourage more people to use active modes of transportation, and improve the safety and accessibility of infrastructure for walking, cycling, and public transit.
 
+ Empowers urban planners and decision-makers with the timely, actionable, science-based geospatial insights they need to succeed.
+

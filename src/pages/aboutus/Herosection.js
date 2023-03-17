@@ -9,10 +9,10 @@ export default function Herosection() {
       <div className="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4">
         <div className="flex flex-col lg:flex-row justify-between gap-8">
           <div className="w-full lg:w-5/12 flex flex-col justify-center">
-            <h1 className="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-white pb-4">
+            <h1 className="text-3xl lg:text-4xl font-bold leading-9 text-black pb-4">
               About Us
             </h1>
-            <p className="font-normal text-base leading-6 text-gray-600 dark:text-white">
+            <p className="font-normal text-base leading-6 text-black ">
               Namma Nimma Cycle Foundation is a Sec 8 non-profit company based
               in Bengaluru, India, that aims to promote active mobility,
               specifically cycling, as a sustainable and healthy mode of
@@ -55,7 +55,7 @@ export default function Herosection() {
                   How ABC bill started taking ship?
                 </h2>
 
-                <p className="font-normal text-base leading-6 text-gray-600 dark:text-white">
+                <p className="font-normal text-base leading-6 text-black ">
                   Anant Kumar, a Member of Parliament from Bangalore & Vijay
                   Kumar Former MLA, Jayanagar have always been advocating for
                   active transportation. They believed that the city needed to
@@ -69,14 +69,14 @@ export default function Herosection() {
                   pedestrians. 
                 </p>
 
-                <p className="font-normal text-base leading-6 text-gray-600 dark:text-white">
+                <p className="font-normal text-base leading-6 text-black ">
                 We discussed with Sri Vijay Kumar MLA about the
-                  need for a very long time - and he said</p>
-                  <p className="font-normal text-base leading-6 text-blue-600 dark:text-white"> "Murali I shall take
+                  need for a legislative act and a executive body for Active Mobility - and he said</p>
+                  <p className="font-normal text-2xl  text-blue-600 "> "Murali I shall take
                   you to the Prime Minister. This is a very important bill to
                   ensure our kids have access to clean and safe environment.
-                  Previous governments have forgotten this important area and
-                  have catered to the "car culture".
+                  Previous governments have forgotten to focus on Active Mobility  and
+                  have catered to the "car culture". I will help you make this change by taking you to the prime minister"
                 </p>
                 <p>
                 But the man who discussed  the need for a bill and a wonderful person left us before
@@ -109,7 +109,7 @@ export default function Herosection() {
                   src="https://i.imgur.com/fjBWsMG.png"
                   alt="Olivia featured Image"
                 />
-                <p className="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">
+                <p className="font-medium text-xl leading-5 text-black mt-4">
                   Charan CS
                 </p>
               </div>
@@ -124,7 +124,7 @@ export default function Herosection() {
                   src="https://i.ibb.co/C5MMBcs/Rectangle-120.png"
                   alt="Liam featued Image"
                 />
-                <p className="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">
+                <p className="font-medium text-xl leading-5 text-black mt-4">
                   Yateesh Kumar 
                 </p>
               </div>

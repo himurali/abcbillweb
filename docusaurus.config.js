@@ -93,6 +93,8 @@ const config = {
          { to: "/vision", label: "Vision", position: "left" },
           { to: "/impact", label: "Impact", position: "left" },
           { to: "/support", label: "Support Us", position: "left" },
+          { to: "/aboutus", label: "About Us", position: "left" },
+
           {
             type: 'doc',
             docId: 'intro',

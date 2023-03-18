@@ -277,7 +277,7 @@ export default function TfeatureEconomy() {
               </div>
               <div className="bg-blue-900	 rounded shadow w-5/6 md:w-1/2 z-0 mx-auto -mt-1 md:-mt-0 md:-ml-1">
                 <div className="py-8 text-center text-indigo-200 font-semibold uppercase">
-                  Aspiratory Action{" "}
+                  Aspirational Action{" "}
                 </div>
                 <hr className="mb-8 my-0 border border-indigo-dark opacity-25"></hr>
 

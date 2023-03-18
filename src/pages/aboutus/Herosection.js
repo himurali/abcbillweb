@@ -52,8 +52,7 @@ export default function Herosection() {
             <div className="grow-0 shrink-0 basis-auto w-full lg:w-6/12 xl:w-8/12">
               <div className="px-6 py-12 md:px-12">
                 <h2 className="text-3xl font-bold mb-4 text-black display-5">
-                  How ABC bill started taking ship?
-                </h2>
+                  Origin of  ABC bill                 </h2>
 
                 <p className="font-normal text-base leading-6 text-black ">
                   Anant Kumar, a Member of Parliament from Bangalore & Vijay
@@ -68,10 +67,18 @@ export default function Herosection() {
                   in every city to address the needs of the cyclists and
                   pedestrians. 
                 </p>
-
+                <h1>Continous discussions with Sri Vijay Kumar from 2017-2018</h1>
                 <p className="font-normal text-base leading-6 text-black ">
                 We discussed with Sri Vijay Kumar MLA about the
-                  need for a legislative act and a executive body for Active Mobility - and he said</p>
+                need for a legislative act and a executive body for Active Mobility continously and his concern was about the following </p>
+                  
+                  <h3 id="inputs-from-vijay-kumar">Inputs from Vijay Kumar</h3>
+                      <ol>
+                      <li>In India due to the Bad Culture built from the younger school/college days - people will not be able to shift to cycling - so massive awareness about the benefits of active mobility is essential for which the state has to use its power and channels.</li>
+                      <li>The Governance structure is non existing and the model of DULT designing and BBMP implementing will not work - planning and designing and execution should be integrated and the entity needs to be lead by a person who is Commited to active mobility.</li>
+                      <li>Separate funding and ministry for active mobility at the center and the state for activating on a mission mode like swach bharath with key performance indicators.</li>
+                      <li>Commitment from the government at the highest level for active mobility.</li>
+                      </ol> 
                   <p className="font-normal text-2xl  text-blue-600 "> "Murali I shall take
                   you to the Prime Minister. This is a very important bill to
                   ensure our kids have access to clean and safe environment.
@@ -79,8 +86,8 @@ export default function Herosection() {
                   have catered to the "car culture". I will help you make this change by taking you to the prime minister"
                 </p>
                 <p>
-                But the man who discussed  the need for a bill and a wonderful person left us before
-                making this happen. As we approach the election time we felt we should publish his work and make everyone reflect 
+                But Sri Vijay Kumar who discussed  the need for a bill and a wonderful support person left us before
+                making this happen on 4 May 2018 and soon after 12 Nov 2018 Sri Anant Kumar also expired. As we approach the election time we felt we should publish his work and make everyone reflect 
                 the need for leadership for enacting laws to protect the vulnerable.
 
                 </p>

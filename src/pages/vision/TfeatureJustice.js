@@ -96,7 +96,7 @@ export default function TfeatureJustice() {
                         </svg>
                       </span>{" "}
                       <span className="text-grey-darker">
-						Increased funding and support for public & Active mobility transportation which are often underserved by traditional transportation systems 
+						Increased funding and support for public & Active mobility transportation which are often shadowed by traditional transportation systems 
                       </span>
                     </div>
                     <div className="flex items-center mb-4">
@@ -166,7 +166,7 @@ export default function TfeatureJustice() {
               </div>
               <div className="bg-blue-900	 rounded shadow w-5/6 md:w-1/2 z-0 mx-auto -mt-1 md:-mt-0 md:-ml-1">
                 <div className="py-8 text-center text-indigo-200 font-semibold uppercase">
-                  Aspiratory Action{" "}
+                Aspirational Action{" "}
                 </div>
                 <hr className="mb-8 my-0 border border-indigo-dark opacity-25"></hr>
 
@@ -179,7 +179,7 @@ export default function TfeatureJustice() {
                           handholding transformation
                         </td>
                         <td className="px-2 py-4 border border-indigo-dark">
-                          Creation of Active Mobility ; governance structure
+                          Creation of Active Mobility ; Governance structure
                         </td>
                       </tr>
                       <tr>

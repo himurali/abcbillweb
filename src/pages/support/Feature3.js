@@ -24,16 +24,16 @@ export default function Feature3 () {
            <div className="w-full px-4 lg:w-1/2 xl:w-6/12">
              <div className="mb-12 max-w-[570px] lg:mb-0">
                <span className="text-primary mb-4 block text-base font-semibold">
-                 Contact Us
+                 Be part of the revolution in India
                </span>
                <h2
                  className="text-dark mb-6 text-[32px] font-bold uppercase sm:text-[40px] lg:text-[36px] xl:text-[40px]"
                >
-                 GET IN TOUCH WITH US
+                    Support Us
                </h2>
                <p className="text-body-color mb-9 text-base leading-relaxed">
-               ABC Bill is a community initiative    being anchored by Namma Nimma Cycle Foundation a non-profit organization in Bangalore, 
-               India, with a mission to promote active mobility and sustainable transportation across Asia. 
+               ABC Bill is a nation wide  initiative    being choreographed by Namma Nimma Cycle Foundation a non-profit organization in Bangalore, 
+               India, with a mission to promote active mobility and sustainable transportation across India. 
                <p>  Our  focus is on creating a culture of cycling, promoting the benefits of cycling, and advocating for cycling-friendly policies and infrastructure. Our  goal is to enable active mobility on a large scale, contributing to a healthier, cleaner, and more livable planet.
                </p>
                <p>  Donations to NNCF  go towards supporting active mobility projects.</p>

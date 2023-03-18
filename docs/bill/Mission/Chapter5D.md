@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Chapter 4 : Establishment of Center for Active Travel  in India 
+# Chapter 4 : Establishment of Directorate for Active Travel  in India 
 
 
 ## Appointment of Director for  Active Travel :

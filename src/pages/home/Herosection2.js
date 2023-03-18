@@ -9,8 +9,8 @@ export default function Herosection2 () {
   return (
      
      <div> 
-  <div className="relative h-screen overflow-hidden bg-indigo-900">
-    <img src="https://i.imgur.com/yb6rcmC.jpg" className="absolute object-cover w-full h-full"/>
+  <div className="relative h-screen overflow-hidden bg-orange-600">
+    <img src="https://i.imgur.com/fBcopdw.jpg" className="absolute object-cover px-32  w-full h-full"/>
     <div className="absolute inset-0 bg-black opacity-25">
     </div>
     <header className="absolute top-0 left-0 right-0 z-20">
@@ -33,13 +33,13 @@ export default function Herosection2 () {
             </div>
         </nav>
     </header>
-    <div className="container relative z-10 flex items-center px-6 py-32 mx-auto md:px-12 xl:py-40">
+    <div className="container relative z-10 flex items-center px-6 py-32 mx-auto md:px-1 xl:py-14">
         <div className="relative z-10 flex flex-col items-start lg:w-3/5 xl:w-2/5">
             <span className="font-bold md:text-2xl text-yellow-400 uppercase">
-            Move Yourself 
             </span>
-            <h1 className="mt-4 text-6xl font-bold leading-tight text-white sm:text-7xl">
-                       <br/>
+            <h1 className="mt-4 text-2xl font-bold leading-tight text-white sm:text-2xl">
+            Move Yourself 
+     <br/>
                        </h1>
             <a href="#" className="block px-4 py-3 mt-10 text-lg font-bold text-gray-800 uppercase bg-white rounded-lg hover:bg-gray-100">
                 Join us

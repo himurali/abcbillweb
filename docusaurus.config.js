@@ -104,7 +104,7 @@ const config = {
           {
             to: '/demo/intro',   // To highlight the navbar item, you must link to a document, not a top-level directory
             position: 'left',
-            label: 'Success',
+            label: 'Resources',
             activeBaseRegex: `/demo/`,
           },
           {

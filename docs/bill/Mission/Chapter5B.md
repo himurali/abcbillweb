@@ -1,10 +1,27 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 ---
-# Chapter 2 : Establishment of Center for Active Mobility Justice 
- 
+# Chapter 2 : Establishment of Directorate for Active Mobility Justice 
 
 Amidst growing concern over the safety, accessibility, and equity of active mobility modes such as walking, cycling, and other non-motorized transportation options. Despite their numerous benefits, active mobility modes are often neglected and overlooked in transportation planning and policy, resulting in inadequate infrastructure, unsafe road conditions, and unequal access to transportation options.
+
+Active Mobility Justice is an essential component of promoting active mobility, which refers to non-motorized modes of transportation such as walking, cycling, and non-motorized public transport. It focuses on ensuring that active mobility is accessible, safe, and inclusive for all citizens, especially for those who are economically or socially disadvantaged.
+
+Safety is a crucial aspect of Active Mobility Justice. Pedestrians and cyclists are vulnerable road users and are at risk of accidents when sharing roads with motorized vehicles. Therefore, infrastructure and policies should prioritize their safety, such as the development of separate cycling lanes and pedestrian crossings.
+
+Accessibility is also essential in Active Mobility Justice. The infrastructure should be accessible to all citizens, regardless of their age, gender, or physical ability. This includes the provision of accessible infrastructure such as ramps, elevators, and tactile surfaces to ensure equal access for all.
+
+Inclusivity is another aspect of Active Mobility Justice that focuses on promoting the participation of all communities in active mobility. This includes designing infrastructure and policies that are sensitive to the needs of diverse communities, such as women, children, and the elderly.
+
+Climate justice is another important aspect of Active Mobility Justice. Promoting active mobility helps reduce carbon emissions, which is essential for mitigating the impact of climate change. This is particularly important for vulnerable communities that are most affected by climate change.
+
+Safe & Secure environment is another aspect of Active Mobility Justice that focuses on creating safe spaces for pedestrians and cyclists. This involves the reduction of vehicular traffic, lower speed limits, and the development of green spaces and urban forests.
+
+Lastly, justice in space sharing is an important aspect of Active Mobility Justice. This refers to the fair allocation of public space for pedestrians, cyclists, and public transport users, in comparison to motorized vehicles. This involves reducing the space allocated to cars and providing more space for active mobility infrastructure.
+
+In conclusion, Active Mobility Justice is an essential component of promoting active mobility. By focusing on safety, accessibility, inclusivity, climate justice, safe environment, and justice in space sharing, we can create a transportation system that is sustainable, healthy, and equitable for all.
+
+## Center for Active Mobility Justice
 
 A Center for Active Mobility Justice would serve as a hub for research, advocacy, and community engagement aimed at promoting and advancing the rights and well-being of active mobility users.
 

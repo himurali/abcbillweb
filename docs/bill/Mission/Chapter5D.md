@@ -4,6 +4,17 @@ sidebar_position: 5
 
 # Chapter 4 : Establishment of Directorate for Active Travel  in India 
 
+The Directorate for Active Travel  in India  will play a critical role in promoting active travel for pilgrimage, trekking, and camping. Some of the potential functions of the Directorate could include:
+
+- Developing and maintaining pilgrimage paths and routes across India, and promoting them as active travel options for religious and spiritual tourism.
+- Identifying and mapping potential trekking and cycling trails across India, and working with local governments and communities to develop and maintain them.
+- Developing and promoting camping sites and facilities in natural and scenic locations across India, and promoting them as active travel options for nature-based tourism.
+- Collaborating with local communities and stakeholders to ensure that active travel options are accessible, safe, and inclusive for all, regardless of gender, ability, or socio-economic background.
+- Conducting research and collecting data on the economic and social benefits of active travel for pilgrimage, trekking, and camping, and using this evidence to advocate for greater investment and policy support for these activities.
+
+By promoting active travel for pilgrimage, trekking, and camping, the Directorate could help to diversify and enhance India's tourism industry, while also promoting sustainable and healthy forms of transportation. It could also help to promote cultural exchange and community development, by encouraging travelers to engage with local communities and learn about their traditions and way of life.
+
+
 
 ## Appointment of Director for  Active Travel :
  

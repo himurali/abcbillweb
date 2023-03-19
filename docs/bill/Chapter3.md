@@ -13,37 +13,41 @@ Active mobility, which includes walking, cycling, and other non-motorized modes 
 To address these issues, the Government of India is launching Mission Atmanirbhar Bharat Cycle, aimed at promoting and implementing active mobility on a mission mode with a focus on last mile connectivity, integration with public transport, and bicycle tourism.
 
 ## COMPONENTS OF THE MISSION
-The Mission Atmanirbhar Bharat Cycle will focus on the following components:
+The  Atmanirbhar Bharat Cycle Mission will focus on the following components:
 
-(a) Last mile connectivity - Providing infrastructure and facilities for cycling and walking as a last-mile solution for public transport connectivity.
+The  Atmanirbhar Bharat Cycle Mission is a proposed   initiative aimed at promoting active mobility in India, which refers to non-motorized modes of transportation such as walking, cycling, and non-motorized public transport. 
 
-(b) Integration with public transport - Promoting seamless integration of cycling and walking with public transport to increase the usage of active mobility.
+The mission has five key components that need to be scaled to transition the nation into a green and healthy nation.
 
-(c) Bicycle tourism - Developing cycling routes and facilities to promote bicycle tourism and attract tourists to different parts of the country.
+### Active Mobility Justice
+The first component is Active Mobility Justice, which aims to ensure that active mobility is accessible and safe for all citizens, especially for those who are economically or socially disadvantaged. This can be achieved through the implementation of equitable policies and infrastructure that prioritize the needs of pedestrians, cyclists, and public transport users.
+The Directorate will have the mandate to ensure the Active Mobility Justice 
 
-## METHODOLOGY FOR IMPLEMENTATION
-The Mission Atmanirbhar Bharat Cycle will be implemented through the following methodology:
+### Active Mobility Governance
 
-- (a) Identification of target cities - The mission will initially focus on 100 cities across India, with the potential to expand to more cities in the future.
-- (b) Preparation of a comprehensive plan - A comprehensive plan will be prepared for each target city, which will include infrastructure development, policy and regulatory measures, and public awareness campaigns.
-- (c) Allocation of funding - The central government will provide funding for the implementation of the mission, which will be supplemented by funding from state governments, international agencies, and private sector entities.
-- (d) Implementation of infrastructure development - Infrastructure development will include the creation of cycling lanes, pedestrian walkways, bicycle parking facilities, and other relevant facilities.
-- (e) Implementation of policy and regulatory measures - Policy and regulatory measures will be implemented to promote the use of active mobility, including incentives for cycling and walking, and penalties for non-compliance.
-- (f) Public awareness campaigns - Public awareness campaigns will be launched to promote the benefits of active mobility and encourage citizens to adopt it.
- 
+The second component is Active Mobility Governance, which focuses on the role of local and national government in promoting active mobility. This involves developing policies and regulations that support active mobility, such as improving pedestrian and cycling infrastructure, reducing speed limits, and increasing public transport services.
 
-## MEASUREMENT OF PROGRESS AND CITIZEN FEEDBACK
-The progress of the Mission Atmanirbhar Bharat Cycle will be measured through the following indicators:
+The Directorate will have the mandate to ensure the Active Mobility Governance Framework is established with a clear mandate to deliver active mobility. 
 
-(a) Number of cycling and walking trips per day.
+### Active Mobility Research
 
-(b) Reduction in traffic congestion, air pollution, and carbon emissions.
+The third component is Active Mobility Research, which aims to promote evidence-based decision-making in the development of active mobility policies and infrastructure. This involves conducting research on the health, environmental, and economic benefits of active mobility, as well as studying the behavior and preferences of citizens in relation to active mobility.
 
-(c) Increase in the number of people using active mobility for commuting.
+The Directorate will have the mandate to ensure the Active Mobility Research provides insights for enabling Active Mobility on scale.
 
-(d) Increase in the number of cycling and walking tourists.
+### Active Mobility Infrastructure
 
-Citizen feedback will be collected through online surveys, public meetings, and other relevant mechanisms to ensure that the mission is aligned with the needs and aspirations of citizens.
+The fourth component is Active Mobility Infrastructure, which involves the development of safe, convenient, and well-connected pedestrian and cycling infrastructure, as well as the expansion of non-motorized public transport services. This includes the development of cycling lanes, footpaths, pedestrian crossings, and other facilities that promote active mobility.
+
+The Directorate will have the mandate to ensure the Active Mobility Infrastructure is made available across India. 
+
+### Active Mobility Economy and Development
+
+The fifth component is Active Mobility Economy and Development, which focuses on the potential economic benefits of promoting active mobility, such as reducing healthcare costs and creating new jobs in the cycling and pedestrian infrastructure sector. This involves partnering with private businesses and entrepreneurs to promote sustainable modes of transportation and to build a thriving active mobility industry.
+
+By scaling these five components of the Bharat Active Mobility Bill, India can transition into a green and healthy nation, with improved public health, reduced pollution, and a more sustainable transportation system.
+The Directorate will have the mandate to ensure the Active Mobility Economy receives the much needed boost in terms of subsidy, encouragement.
+
 
 ## CONCLUSION
 The Mission Atmanirbhar Bharat Cycle will promote active mobility and create a sustainable and efficient urban transportation system in India. It will provide last-mile connectivity, integrate with public transport, and promote bicycle tourism. The mission will be implemented through a comprehensive plan and methodology, with measurement of progress and feedback from citizens.

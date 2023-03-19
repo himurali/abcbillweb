@@ -10,7 +10,7 @@ sidebar_position: 3
 - Develop and implement policies that promote safety and fairness for all active mobility users
 - Provide education and training programs that raise awareness of active mobility issues and promote responsible use of infrastructure
 
-
+The Active Mobility Justice will have these additional components to explore and engage and 
 
 |  A   |B  | C  |
 |---|---|---|
@@ -26,15 +26,19 @@ sidebar_position: 3
 - Build a network of safe, accessible, and well-maintained active mobility infrastructure, including sidewalks, bike lanes, and trails 
 - Prioritize investments in active mobility infrastructure that connect neighborhoods, public transit hubs, and other key destinations 
 - Encourage the use of innovative technologies and design approaches to improve active mobility infrastructure and user experience
+- Enable Stanards for Bharath  Streets, a design approachto planning, designing, building, operating, and maintaining streets that enables safe access for all people who need to use them, including pedestrians, bicyclists, motorists and transit riders of all ages and abilities.
 
  
 
 |  A   |B  | C  |
 |---|---|---|
-| Patterns & Guidelines for AM Infrastructure | Walkways and Cycleways | Intersections Design & Mgmt|
+| Patterns & Guidelines for AM Infrastructure | Walkways and Cycleways | Bharath Streets & Intersections Design & Mgmt|
 | Safe Parking  | Signaling | Public Transit Integration |
 | Maintenance | Accessibility | Lighting and Security: |
 |  Information on Digital Channels |  User Experience | Route Planning  |
+|  Safe Streets |  Safe Road Users | Safe Speeds   |
+
+
 ## III. Active Mobility Economy & Development
 
  

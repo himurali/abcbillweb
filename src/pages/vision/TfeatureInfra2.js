@@ -50,7 +50,8 @@ export default function TfeatureInfra2() {
             Active Mobility Infrastructure.
             </h1>
             <h2 className="text-black text-4xl text-center font-normal">
-            more inclusive, accessible, and equitable transportation system for all.
+            More inclusive, accessible and equitable transportation system for all.
+           <br></br> Produces tangible changes and prioritizes the needs of the most vulnerable users. 
 
             </h2>
             <TfeatureInfraSubPillars></TfeatureInfraSubPillars>

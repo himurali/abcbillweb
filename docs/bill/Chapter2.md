@@ -47,7 +47,20 @@ The shift to kids riding cycles would involve a change in behavior, with parents
   Many elders are isolated and lack opportunities for social interaction and physical activity. The shift to spending time in green spaces would involve investments in cycle-friendly green spaces, such as parks and nature reserves, as well as education campaigns to promote cycling as a healthy and safe activity for older people. This would encourage elders to spend more time outdoors, promoting social interaction and physical activity, and improving their overall health and wellbeing.
 
 
-  ## 2.1 "Namaste Vayo Tvamekam Brahmasmi"
+
+## 2.2 Paradigm Shift in Road Safety 
+
+| Parameters  |  Traditional | ABC Bill Proposed Safe System  |
+|---|---|---|
+| Accidents | Prevent crashes by putting road humps etc | Prevent deaths and serious injuries by building safe systems |
+| Human Behavior | Improve human behavior | Design for human mistakes/limitations |
+| Road Speed |  Control speeding | Reduce system kinetic energy |
+| Responsibility on Road Designers | Nil - Individuals are responsible  | Share responsibility |
+| Accountability  on Road Designers| Nil - React based on crash  history |   Proactively identify and address risks |
+ 
+
+
+## 2.1 "Namaste Vayo Tvamekam Brahmasmi"
 
 
 The Bharath Bicycle Bill recognizes  the ancient teachings of the Vedas, which have been a guiding force for Indian society for thousands of years. One of the key teachings of the Vedas is the proclamation "Namaste Vayo Tvamekam Brahmasmi," which means "I bow to the air, the greater life force that pervades everywhere, I am one with Brahman."

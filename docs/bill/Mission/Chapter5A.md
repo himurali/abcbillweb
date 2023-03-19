@@ -4,6 +4,25 @@ sidebar_position: 1
 # Chapter 1 : Commissionerate for Active Mobility
 Commissionerate for Active Mobility is a multi-disciplinary organization that is focused on creating safe, accessible, and sustainable active mobility infrastructure and environments. Its structure and key activities are designed to address the various challenges and opportunities associated with promoting active transportation, and to ensure that the needs of all users, including women and children, are considered in planning and implementation.
 
+
+The Commissionerate for Active Mobility could be an organization responsible for overseeing and coordinating the activities of the five directorates that promote active mobility in India. Its primary role would be to monitor the progress of active mobility projects and initiatives, and to commission new projects where necessary.
+
+
+
+The Commissionerate could focus on various areas of active mobility, such as:
+
+- Directorate of Active Mobility Justice: Role includes promoting safety, accessibility, inclusivity, and climate justice in active mobility, and ensuring equitable access to active mobility infrastructure for all citizens.
+
+- Directorate of Active Mobility Infrastructure: Role includes   developing and maintaining infrastructure for walking, cycling, and non-motorized public transport, such as complete streets, cycle paths, and walking paths. The Directorate could also focus on promoting green urban infrastructure, reduced speeds, integrated public transit infrastructure, maintenance, and design for longevity.
+
+- Directorate of Active Mobility Governance: Role includes Design of State & Central  Level organizations and developing and implementing policies and programs that promote active mobility, and coordinating with local and state governments to ensure a coordinated approach to active mobility.
+
+- Directorate of Active Mobility Travel: Role  includes promoting active travel for pilgrimage, trekking, and camping, and developing and maintaining infrastructure for Active Travel activities.
+
+- Directorate of Active Mobility Economics and Development: Role includes promoting the manufacturing of bicycles, supply chain, components, and SMEs, bicycle and parts industries, production capability, and entrepreneurship with Active Mobility startups, and bicycle logistics with cargo bicycles.
+
+
+
 ## Commissionerate - Systemic Structure for capacity and capability building for Active Mobility:
 
 Here are some key elements that could be included in the Commissionerate for Active Mobility for capacity and capability building for Active Mobility:

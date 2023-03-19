@@ -5,6 +5,19 @@ sidebar_position: 4
 # Active Mobility Research
 This brief outlines the key research and planning considerations for the development and implementation of active mobility policies and programs. It highlights the importance of conducting research on industry, design, service standards, green infrastructure and urbanism, urban planning, statistics on active mobility users, justice for vulnerable groups, and livelihood enablement. The research findings will inform evidence-based policy and program development and ensure that active mobility policies and programs are responsive to community needs and expectations.
 
+Active Mobility Research commits to developing research approaches that advance Active Mobility.
+
+Active Mobility Research will play a critical role in exploring and expounding Active Mobility as an  alternatives and the opportunities for deep, practical learning.
+
+ The research will leverage creativity, novel perspectives, and insight.
+ Active Mobility Research will propose ways in which the transformation can be energised and embraced.
+- Alternatives to high carbon mobilities
+- Cultures and places of future mobility
+- Decolonising Mobility and Decolonising climate futures
+- Young people and their mobility 
+- Climate emergency
+
+
 **Research on Industry:**
 
 Conduct research on the active mobility industry to identify emerging trends, technologies, and best practices

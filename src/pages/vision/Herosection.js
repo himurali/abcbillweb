@@ -29,7 +29,7 @@ export default function Herosection() {
            
            </div>
                        <div className="w-full lg:w-8/12">
-                    <img className="w-full h-full" src="https://i.imgur.com/fBcopdw.jpg" alt="A group of People" />
+                    <img className="w-full h-full" src="https://i.imgur.com/yb6rcmC.jpg" alt="A group of People" />
                 </div>
             </div>
     

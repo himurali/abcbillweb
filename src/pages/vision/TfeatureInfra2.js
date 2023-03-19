@@ -4,56 +4,56 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCoffee } from "@fortawesome/free-solid-svg-icons";
 
 import Vimeo from "@u-wave/react-vimeo";
-export function TfeatureResSubPillars() {
+export function TfeatureInfraSubPillars() {
   return (
     <div>
-      <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
-        Research on active mobility and health{" "}
+      <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
+        AM Organization Structure{" "}
       </span>
-      <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
-        Research on active mobility and transport planning
+      <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
+        AM Budget
       </span>
-      <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
-        Research on design - urban design and planning
+      <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
+        AM Finance
       </span>
-      <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
-        Research on service standards
-      </span>
-
-      <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
-        Research on green infrastructure and green urbanism
+      <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
+        AM Audit
       </span>
 
-      <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
-        Research on urban planning and active mobility
+      <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
+        AM Reporting
       </span>
 
-      <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
-        Research on AM Maturity Assessment Tool – People and culture
+      <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
+        AM Service Standards
       </span>
 
-      <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
-        Research on Active mobility and social equity
+      <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
+        AM Service Quality
+      </span>
+
+      <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
+        Building AM Capacity and Capability
       </span>
     </div>
   );
 }
-export default function TfeatureResearch() {
+export default function TfeatureInfra2() {
   const myStyle1 = {};
 
   return (
     <div>
-      <section className="font-sans antialiased w-full bg-green-500 py-8">
+      <section className="font-sans antialiased w-full bg-yellow-200 py-8">
         <div className="container mx-auto">
           <div className="py-8 w-full mx-auto">
-            <h1 className="text-white text-4xl font-bold text-center font-normal">
-            Active Mobility Research.
+            <h1 className="text-indigo-darkest text-4xl text-center font-normal">
+            Active Mobility Infrastructure.
             </h1>
-            <h2 className="text-white text-4xl text-center font-normal">
-              Valuable insights into the health,environmental, economic & social
-              benefits of Active mobility
+            <h2 className="text-black text-4xl text-center font-normal">
+            more inclusive, accessible, and equitable transportation system for all.
+
             </h2>
-            <TfeatureResSubPillars></TfeatureResSubPillars>
+            <TfeatureInfraSubPillars></TfeatureInfraSubPillars>
             <div className="my-8 flex flex-wrap md:items-center w-full">
               <div className="bg-white shadow rounded w-full md:w-1/2 z-10">
                 <div className="py-8 text-center text-green font-semibold uppercase">
@@ -63,10 +63,10 @@ export default function TfeatureResearch() {
                 <div className="py-8">
                   
                    
-                  <div className="bg-green-300 py-5 flex items-center justify-center">
+                  <div className="bg-green-300 py-5 flex px-16 items-center justify-center">
                     <div className="relative bg-white  p-8 border border-indigo-500 rounded-lg">
                       <div className="text-gray-800 text-sm">
-                        <div className="absolute bottom-[45px] right-0 transform translate-x-1/2 -translate-y-1/2 rotate-45 w-20 h-20 bg-white border-r border-t border-indigo-500"></div>
+                        <div className="absolute bottom-[25px] right-0 transform translate-x-1/2 -translate-y-1/2 rotate-45 w-20 h-20 bg-white border-r border-t border-indigo-500"></div>
                         <div className="mt-18 mx-auto w-2/3">
                           <div className="flex items-center mb-4">
                             <span className="inline-flex bg-green-lighter rounded-full mr-4 p-1">
@@ -86,8 +86,8 @@ export default function TfeatureResearch() {
                               </svg>
                             </span>{" "}
                             <span className="text-grey-darker">
-                              Improved public engagement to scale active
-                              mobility
+                            Budget & Funding mechanisms to active mobility infrastructure.
+
                             </span>
                           </div>
                           <div className="flex items-center mb-4">
@@ -109,8 +109,8 @@ export default function TfeatureResearch() {
                             </span>{" "}
                             <span className="text-grey-darker">
                               {" "}
-                              Increased active transportation targets for
-                              delivering active mobility
+                              Increased support for multi-modal transportation systems
+
                             </span>
                           </div>
                           <div className="flex items-center mb-4">
@@ -132,8 +132,9 @@ export default function TfeatureResearch() {
                             </span>{" "}
                             <span className="text-grey-darker">
                               {" "}
-                              Identification of barriers and enablers for
-                              implemengting active mobility
+                              Improved street design that prioritizes active transportation, including traffic calming measures, 
+                              speed reduction, and road diets.
+
                             </span>
                           </div>
 
@@ -153,7 +154,7 @@ export default function TfeatureResearch() {
                               </svg>
                             </span>{" "}
                             <span className="text-grey-darker">
-                              Public engagement and confidence building
+                            Increased investment in green infrastructure, such as trees, greenways, and parks
                             </span>
                           </div>
                         </div>
@@ -162,7 +163,7 @@ export default function TfeatureResearch() {
                   </div>
                 </div>
               </div>
-              <div className="bg-yellow-300	 rounded shadow w-5/6 md:w-1/2 z-0 mx-auto -mt-1 md:-mt-0 md:-ml-1">
+              <div className="bg-yellow-300	px-16 rounded shadow w-5/6 md:w-1/2 z-0 mx-auto -mt-1 md:-mt-0 md:-ml-1">
                 <div className="py-8 text-center text-black font-semibold uppercase">
                   Aspirational Action{" "}
                 </div>
@@ -183,9 +184,7 @@ export default function TfeatureResearch() {
 
                             </span>{" "}
                             <span className="text-grey-darker">
-                            Release an Annual AM Policy Research Report to
-				  decision-makers with the evidence{" "}
-
+                            Develop a comprehensive active transportation plan for one city in each state.	
                             </span>
                           </div>
                           <div className="flex items-center mb-4">
@@ -197,8 +196,20 @@ export default function TfeatureResearch() {
                             </span>{" "}
                             <span className="text-grey-darker">
                               {" "}
-                              Create a channel for publishing active mobility
-                          research in India{" "}
+                              Create and implement design guidelines and standards in a Tier 3 city .	                            </span>
+                          </div>
+                          <div className="flex items-center mb-4">
+                            <span className="inline-flex bg-green-lighter rounded-full mr-4 p-1">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 5.25a3 3 0 013 3m3 0a6 6 0 01-7.029 5.912c-.563-.097-1.159.026-1.563.43L10.5 17.25H8.25v2.25H6v2.25H2.25v-2.818c0-.597.237-1.17.659-1.591l6.499-6.499c.404-.404.527-1 .43-1.563A6 6 0 1121.75 8.25z" />
+</svg>
+
+
+                            </span>{" "}
+                            <span className="text-grey-darker">
+                              {" "}
+                              Develop and implement smart city strategies that use data and technology to optimize active transportation infrastructure
+
                             </span>
                           </div>
                           <div className="flex items-center mb-4">
@@ -210,24 +221,39 @@ export default function TfeatureResearch() {
                             </span>{" "}
                             <span className="text-grey-darker">
                               {" "}
-                              Develop tools and metrics for measuring active
-                          mobility
+                              Develop and implement smart city strategies that use data and technology to optimize active transportation infrastructure
+
+                            </span>
+                          </div>
+                          <div className="flex items-center mb-4">
+                            <span className="inline-flex bg-green-lighter rounded-full mr-4 p-1">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 01-2.25 2.25M16.5 7.5V18a2.25 2.25 0 002.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 002.25 2.25h13.5M6 7.5h3v3H6v-3z" />
+</svg>
+
+
+                            </span>{" "}
+                            <span className="text-grey-darker">
+                              {" "}
+                              Introduce Active Mobility Infrastructure development course in civil and architecture degrees.
+
                             </span>
                           </div>
 
                           <div className="flex items-center mb-4">
                             <span className="inline-flex bg-green-lighter rounded-full mr-4 p-1">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M21 7.5l-2.25-1.313M21 7.5v2.25m0-2.25l-2.25 1.313M3 7.5l2.25-1.313M3 7.5l2.25 1.313M3 7.5v2.25m9 3l2.25-1.313M12 12.75l-2.25-1.313M12 12.75V15m0 6.75l2.25-1.313M12 21.75V19.5m0 2.25l-2.25-1.313m0-16.875L12 2.25l2.25 1.313M21 14.25v2.25l-2.25 1.313m-13.5 0L3 16.5v-2.25" />
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 3c2.755 0 5.455.232 8.083.678.533.09.917.556.917 1.096v1.044a2.25 2.25 0 01-.659 1.591l-5.432 5.432a2.25 2.25 0 00-.659 1.591v2.927a2.25 2.25 0 01-1.244 2.013L9.75 21v-6.568a2.25 2.25 0 00-.659-1.591L3.659 7.409A2.25 2.25 0 013 5.818V4.774c0-.54.384-1.006.917-1.096A48.32 48.32 0 0112 3z" />
 </svg>
+
 
                             </span>{" "}
                             <span className="text-grey-darker">
-                            Establish a dedicated research cell for AM research
-
-                            </span>
+                            Publish infra design strategies & patterns to create active transportation infrastructure that is visually appealing, environmentally friendly, and cost-effective.	                            </span>
                           </div>
                         </div>
+
+                        
                       </div>
                     </div>
                   </div>

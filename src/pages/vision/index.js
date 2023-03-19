@@ -9,11 +9,11 @@ import Herosection from "./Herosection"
 import Feature1 from "./Feature1"
 import Feature2 from "./Feature2";
 import Feature3 from "./Feature3";
-import TfeatureGov from "./TfeatureGov";
-import TfeatureInfra from "./TfeatureInfra"
+import TfeatureGov2 from "./TfeatureGov2";
+import TfeatureInfra2 from "./TfeatureInfra2"
 
-import TfeatureEconomy from "./TfeatureEconomy"
-import TfeatureJustice from "./TfeatureJustice"
+import TfeatureEconomy2 from "./TfeatureEconomy2"
+import TfeatureJustice2 from "./TfeatureJustice2"
 import TfeatureResearch from "./TfeatureResearch";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -44,10 +44,10 @@ export default function HomePage() {
       
         <Herosection/>
       
-        <TfeatureGov></TfeatureGov>
-        <TfeatureInfra></TfeatureInfra>
-        <TfeatureEconomy></TfeatureEconomy>
-        <TfeatureJustice></TfeatureJustice>
+        <TfeatureGov2></TfeatureGov2>
+        <TfeatureInfra2></TfeatureInfra2>
+        <TfeatureEconomy2></TfeatureEconomy2>
+        <TfeatureJustice2></TfeatureJustice2>
         <TfeatureResearch></TfeatureResearch>
           </main>
     </Layout>

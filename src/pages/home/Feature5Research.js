@@ -14,7 +14,7 @@ export default function Feature5Research () {
         height: 400,
 
         backgroundImage:
-          "url('https://images.unsplash.com/photo-1588600878108-578307a3cc9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80')",
+          "url('https://www.intelligenttransport.com/wp-content/uploads/bike-share-2.jpg')",
       };
 
       
@@ -28,17 +28,17 @@ export default function Feature5Research () {
          </div>
  
          <div className="max-w-xl px-16 py-12 lg:max-w-5xl lg:w-1/2">
+           
+           
              <h2 className="text-2xl font-semibold text-gray-800 dark:text-white md:text-3xl">
-            Active Mobility  Research -   <br></br>  Research and planning to inspire   active mobility policies and programs.
-               <span className="text-blue-500">  Evidence-based policy and program development.</span>
+             Active Mobility  Research   
+              
              </h2>
+             <h3 className="text-1xl  text-white">Research and planning to inspire   active mobility policies and programs.  <span className="text-1xl  text-blue-500">             Identify emerging trends, technologies, and best practices
+.</span></h3>
              <p className="mt-4 text-gray-500 dark:text-gray-300">
-             Identify emerging trends, technologies, and best practices
-             </p>
- 
-             <div className="inline-flex w-full mt-6 sm:w-auto">
-                    
-             </div>
+             Evidence-based policy and program development             </p>
+             
          </div>
      </div>
  </section>

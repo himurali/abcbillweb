@@ -19,8 +19,8 @@ export function TfeatureGovSubPillars() {
       </span>
       <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
         AM Audit
-      </span> 
-	  <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
+      </span>
+      <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-blue-700 uppercase last:mr-0 mr-1">
         AM Reporting
       </span>
 
@@ -55,7 +55,6 @@ export default function TfeatureGov() {
             </h2>
             <TfeatureGovSubPillars></TfeatureGovSubPillars>
             <div className="my-8 flex flex-wrap md:items-center w-full">
-              
               <div className="bg-white shadow rounded w-full md:w-1/2 z-10">
                 <div className="px-188 py-8 text-center text-green font-semibold uppercase">
                   Transformation
@@ -174,7 +173,7 @@ export default function TfeatureGov() {
                   </div>
                 </div>
               </div>
-       
+
               <div className="bg-blue-900	 rounded shadow w-5/6 md:w-1/2 z-0 mx-auto -mt-1 md:-mt-0 md:-ml-1">
                 <div className="px-188 py-8 text-center text-green font-semibold uppercase">
                   Transformation
@@ -293,7 +292,6 @@ export default function TfeatureGov() {
                   </div>
                 </div>
               </div>
-             
             </div>
           </div>
         </div>

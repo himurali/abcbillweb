@@ -15,17 +15,31 @@ export default function Feature5() {
         <h1 className="text-3xl text-center font-bold text-blue-500">
           Strategy to make it happen
         </h1>
-        <p>Our goal is to create a sustainable and healthy transportation system by promoting active mobility, specifically cycling. We will achieve this through the implementation of an active mobility bill that will provide the necessary infrastructure, policies, and incentives to encourage cycling.
-        Active mobility is a sustainable and environmentally friendly mode of transportation.  
-
-
-          As such, it is important to ensure that policies and infrastructure support active mobility as part of efforts to address climate change and promote climate justice.
-       <p> Crucial for every citizen to support this bill thereby ensuring that these policies and programs are supported by the Leadership at the Gov level and by the Indian Parliament.
-
-        </p>
-        <p className="text-3xl text-center font-bold text-blue-500">To make the Indian Parliament Implement this bill the  strategy is to focus on the following key areas:</p>
-        <p>  We will be releasing the toolkits for each of the following strategies so that the voice is heard across the country.</p>
-
+        <p>
+          Our goal is to create a sustainable and healthy transportation system
+          by promoting active mobility, specifically cycling. We will achieve
+          this through the implementation of an active mobility bill that will
+          provide the necessary infrastructure, policies, and incentives to
+          encourage cycling. Active mobility is a sustainable and
+          environmentally friendly mode of transportation. As such, it is
+          important to ensure that policies and infrastructure support active
+          mobility as part of efforts to address climate change and promote
+          climate justice.
+          <p>
+            {" "}
+            Crucial for every citizen to support this bill thereby ensuring that
+            these policies and programs are supported by the Leadership at the
+            Gov level and by the Indian Parliament.
+          </p>
+          <p className="text-3xl text-center font-bold text-blue-500">
+            To make the Indian Parliament Implement this bill the strategy is to
+            focus on the following key areas:
+          </p>
+          <p>
+            {" "}
+            We will be releasing the toolkits for each of the following
+            strategies so that the voice is heard across the country.
+          </p>
         </p>
         <div className="border-l-2 mt-10">
           <div className="transform transition cursor-pointer hover:-translate-y-2 ml-10 relative flex items-center px-6 py-4 bg-blue-600 text-white rounded mb-10 flex-col md:flex-row space-y-4 md:space-y-0">
@@ -34,14 +48,13 @@ export default function Feature5() {
             <div className="w-10 h-1 bg-blue-300 absolute -left-10 z-0"></div>
 
             <div className="flex-auto">
-              
-            <h1 className="text-lg">Coalition Building</h1>
+              <h1 className="text-lg">Coalition Building</h1>
 
               <div className="space-y-4">
                 <div>
                   <img
                     className="object-cover h-48 w-full"
-                      src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=807"
+                    src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=807"
                     alt=""
                   ></img>
                 </div>
@@ -61,7 +74,7 @@ export default function Feature5() {
             <div className="w-10 h-1 bg-pink-300 absolute -left-10 z-0"></div>
 
             <div className="flex-auto">
-            <h1 className="text-lg">Grassroots Mobilization</h1>
+              <h1 className="text-lg">Grassroots Mobilization</h1>
 
               <div className="space-y-4">
                 <div>
@@ -72,7 +85,6 @@ export default function Feature5() {
                   ></img>
                 </div>
               </div>
-
 
               <p className="text-white text-base">
                 Mobilize grassroots support for the bill by engaging with local
@@ -117,15 +129,12 @@ export default function Feature5() {
             <div className="w-10 h-1 bg-purple-300 absolute -left-10 z-0"></div>
 
             <div className="flex-auto">
-
-
               <h1 className="text-lg">Media Engagement</h1>
               <div className="space-y-4">
                 <div>
                   <img
-                    className="object-cover h-48 w-full" 
+                    className="object-cover h-48 w-full"
                     src="https://images.unsplash.com/photo-1503694978374-8a2fa686963a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
-
                     alt=""
                   ></img>
                 </div>
@@ -149,14 +158,12 @@ export default function Feature5() {
               <div className="space-y-4">
                 <div>
                   <img
-                    className="object-cover h-48 w-full" 
+                    className="object-cover h-48 w-full"
                     src="https://images.unsplash.com/photo-1623652554515-91c833e3080e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
-
                     alt=""
                   ></img>
                 </div>
               </div>
-
 
               <p className="text-white text-base">
                 Monitor the implementation of the bill and sensitize the people.{" "}
@@ -168,5 +175,3 @@ export default function Feature5() {
     </div>
   );
 }
-
-

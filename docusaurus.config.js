@@ -92,7 +92,9 @@ const config = {
           { to: "/strategy", label: "Strategy", position: "left" },
          { to: "/vision", label: "Vision", position: "left" },
           { to: "/impact", label: "Impact", position: "left" },
+          { to: "/joinus", label: "Join Us", position: "left" },
           { to: "/support", label: "Support Us", position: "left" },
+
           { to: "/aboutus", label: "About Us", position: "left" },
 
           {

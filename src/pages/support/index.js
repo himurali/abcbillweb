@@ -3,12 +3,7 @@ import clsx from "clsx";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext"; 
- 
-
-import Herosection from "./Herosection"
-import Feature2 from "./Feature2"
-import Feature4 from "./Feature4";
-import Feature5 from "./Feature5";
+  
 import Feature3 from "./Feature3";
 
 function HomepageHeader() {

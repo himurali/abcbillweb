@@ -21,15 +21,15 @@ export default function Herosection2 () {
                     <div >
                     
 
-                        <a href="#" className="block px-4 py-3 mt-10 text-lg font-bold text-gray-800 uppercase bg-white rounded-lg hover:bg-gray-100">
+                        <a href="/joinus" className="block px-4 py-3 mt-10 text-lg font-bold text-gray-800 uppercase bg-white rounded-lg hover:bg-gray-100">
                 Join us
             </a>
 
-            <a href="#" className="block px-4 py-3 mt-10 text-lg font-bold text-gray-800 uppercase bg-white rounded-lg hover:bg-gray-100">
+            <a href="/docs/pillars/justice" className="block px-4 py-3 mt-10 text-lg font-bold text-gray-800 uppercase bg-white rounded-lg hover:bg-gray-100">
                 Pillars
             </a>
 
-            <a href="#" className="block px-4 py-3 mt-10 text-lg font-bold text-gray-800 uppercase bg-white rounded-lg hover:bg-gray-100">
+            <a href="/support" className="block px-4 py-3 mt-10 text-lg font-bold text-gray-800 uppercase bg-white rounded-lg hover:bg-gray-100">
                 Support Us
             </a>
             <h1 className="mt-4 text-2xl font-bold leading-tight text-white sm:text-2xl">

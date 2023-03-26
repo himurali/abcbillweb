@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Chapter 5 : Establishment of Directorate for Active Mobility Urban Design & Infrastructure
+# Chapter 5 :  Active Mobility Urban Design & Infrastructure
 
 
 Active Mobility Infrastructure is a critical component of promoting active mobility, which refers to non-motorized modes of transportation such as walking, cycling, and non-motorized public transport. The infrastructure should prioritize the needs of pedestrians, cyclists, and public transport users to create a safe, convenient, and well-connected system.
@@ -20,7 +20,7 @@ Maintenance and design for longevity are critical aspects of Active Mobility Inf
 In conclusion, Active Mobility Infrastructure is a crucial component of promoting active mobility. By focusing on safety, complete streets, cycle paths and walking paths, green urban infrastructure, reduced speeds, integrated public transit infrastructure, maintenance, and design for longevity, we can create a transportation system that is sustainable, healthy, and safe for all users.
 
 
-## Appointment of Director for  Active Mobility - Urban 
+## Commissionerate shall focus on   Active Mobility - Urban Design & Planning & Execution
 
 Developing and implementing policies, programs, and projects that promote cycling and other forms of active mobility in urban areas.
 

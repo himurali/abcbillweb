@@ -2,9 +2,9 @@
 sidebar_position: 5
 ---
 
-# Chapter 4 : Establishment of Directorate for Active Travel  in India 
+# Chapter 4 :  Active Travel  in India 
 
-The Directorate for Active Travel  in India  will play a critical role in promoting active travel for pilgrimage, trekking, and camping. Some of the potential functions of the Directorate could include:
+The ABC Commissionerate in India  will play a critical role in promoting active travel for pilgrimage, trekking, and camping. Some of the potential functions of the Directorate could include:
 
 - Developing and maintaining pilgrimage paths and routes across India, and promoting them as active travel options for religious and spiritual tourism.
 - Identifying and mapping potential trekking and cycling trails across India, and working with local governments and communities to develop and maintain them.
@@ -16,7 +16,7 @@ By promoting active travel for pilgrimage, trekking, and camping, the Directorat
 
 
 
-## Appointment of Director for  Active Travel :
+## Supporting Role of Active Travel :
  
 - Developing and implementing policies, programs, and projects that promote bicycle tourism & Active Travel in India.
 - Collaborating with other government agencies, non-governmental organizations, and community groups to promote bicycle tourism and create safer cycling infrastructure.

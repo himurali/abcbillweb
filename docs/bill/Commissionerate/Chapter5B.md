@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Chapter 2 : Establishment of Directorate for Active Mobility Justice 
+# Chapter 2 : Delivering Active Mobility Justice 
 
 Amidst growing concern over the safety, accessibility, and equity of active mobility modes such as walking, cycling, and other non-motorized transportation options. Despite their numerous benefits, active mobility modes are often neglected and overlooked in transportation planning and policy, resulting in inadequate infrastructure, unsafe road conditions, and unequal access to transportation options.
 
@@ -21,16 +21,15 @@ Lastly, justice in space sharing is an important aspect of Active Mobility Justi
 
 In conclusion, Active Mobility Justice is an essential component of promoting active mobility. By focusing on safety, accessibility, inclusivity, climate justice, safe environment, and justice in space sharing, we can create a transportation system that is sustainable, healthy, and equitable for all.
 
-## Center for Active Mobility Justice
+##  ABC Commissionerate & Justice
 
-A Center for Active Mobility Justice would serve as a hub for research, advocacy, and community engagement aimed at promoting and advancing the rights and well-being of active mobility users.
+ ABC Commissionerate would serve as a hub for research, advocacy, and community engagement aimed at promoting and advancing the rights and well-being of active mobility users. The Node oversees the organization's overall strategy and manages staff, finances, and partnerships. This person should have experience in transportation policy, social justice .
 
 
-- Executive Director: The Executive Director oversees the organization's overall strategy and manages staff, finances, and partnerships. This person should have experience in transportation policy, social justice .
-- Community Engagement  : The Community Engagement   leads outreach efforts and community partnerships to ensure that the organization's work reflects the needs and values of the communities it serves. This person should have experience in community organizing, cultural competence, and relationship-building.
-- Program Management: The Program Management designs and implements active mobility projects and initiatives, working closely with community partners and local government agencies. This person should have experience in transportation planning, project management, and policy advocacy.
-- Equity and Inclusion Coordination : The Equity and Inclusion Coordination ensures that the organization's work reflects its commitment to equity and inclusion. This person should have expertise in anti-racism, anti-oppression, and cultural humility.
-- Data Analysis : The Data Analysis gathers and analyzes data to inform decision-making, measure impact, and identify areas for improvement. This person should have experience in data collection and analysis, as well as a commitment to data-driven decision-making.
+-   leads outreach efforts and community partnerships to ensure that the organization's work reflects the needs and values of the communities it serves. This person should have experience in community organizing, cultural competence, and relationship-building.
+- designs and implements active mobility projects and initiatives, working closely with community partners and local government agencies. This person should have experience in transportation planning, project management, and policy advocacy.
+- ensures that the organization's work reflects its commitment to equity and inclusion. This person should have expertise in anti-racism, anti-oppression, and cultural humility.
+- gathers and analyzes data to inform decision-making, measure impact, and identify areas for improvement. This person should have experience in data collection and analysis, as well as a commitment to data-driven decision-making.
 
 ### Equity interventions
 

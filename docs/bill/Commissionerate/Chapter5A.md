@@ -11,15 +11,15 @@ The Commissionerate for Active Mobility could be an organization responsible for
 
 The Commissionerate could focus on various areas of active mobility, such as:
 
-- Directorate of Active Mobility Justice: Role includes promoting safety, accessibility, inclusivity, and climate justice in active mobility, and ensuring equitable access to active mobility infrastructure for all citizens.
+-  Active Mobility Justice: Role includes promoting safety, accessibility, inclusivity, and climate justice in active mobility, and ensuring equitable access to active mobility infrastructure for all citizens.
 
-- Directorate of Active Mobility Infrastructure: Role includes   developing and maintaining infrastructure for walking, cycling, and non-motorized public transport, such as complete streets, cycle paths, and walking paths. The Directorate could also focus on promoting green urban infrastructure, reduced speeds, integrated public transit infrastructure, maintenance, and design for longevity.
+- Active Mobility Infrastructure: Role includes   developing and maintaining infrastructure for walking, cycling, and non-motorized public transport, such as complete streets, cycle paths, and walking paths. The Directorate could also focus on promoting green urban infrastructure, reduced speeds, integrated public transit infrastructure, maintenance, and design for longevity.
 
-- Directorate of Active Mobility Governance: Role includes Design of State & Central  Level organizations and developing and implementing policies and programs that promote active mobility, and coordinating with local and state governments to ensure a coordinated approach to active mobility.
+-  Active Mobility Governance: Role includes Design of State & Central  Level organizations and developing and implementing policies and programs that promote active mobility, and coordinating with local and state governments to ensure a coordinated approach to active mobility.
 
-- Directorate of Active Mobility Travel: Role  includes promoting active travel for pilgrimage, trekking, and camping, and developing and maintaining infrastructure for Active Travel activities.
+-  Active Mobility Travel: Role  includes promoting active travel for pilgrimage, trekking, and camping, and developing and maintaining infrastructure for Active Travel activities.
 
-- Directorate of Active Mobility Economics and Development: Role includes promoting the manufacturing of bicycles, supply chain, components, and SMEs, bicycle and parts industries, production capability, and entrepreneurship with Active Mobility startups, and bicycle logistics with cargo bicycles.
+- Active Mobility Economics and Development: Role includes promoting the manufacturing of bicycles, supply chain, components, and SMEs, bicycle and parts industries, production capability, and entrepreneurship with Active Mobility startups, and bicycle logistics with cargo bicycles.
 
 
 

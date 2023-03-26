@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Chapter 3 : Establishment of Directorate for Active Mobility Economics & Development
+# Chapter 3 :  Active Mobility Economics & Development
 
-The Directorate of Active Mobility Economics and Development will look into the following aspects of Active Mobility Economics and Industry.
+The Commissionerate of Active Mobility  will look into the following aspects of Active Mobility Economics and Industry.
 Active Mobility Economic and Development is an essential component of promoting active mobility, which refers to non-motorized modes of transportation such as walking, cycling, and non-motorized public transport. It focuses on the economic and developmental aspects of active mobility, including the manufacturing of bicycles, supply chains, components and SMEs, bicycle and parts industries, production capability, entrepreneurship with startups, and bicycle logistics with cargo bicycles.
 
 - The manufacturing of bicycles is an important aspect of Active Mobility Economic and Development. Promoting the manufacturing of bicycles can create job opportunities and stimulate economic growth. It also reduces dependence on imported bicycles and promotes local production.
@@ -26,21 +26,21 @@ In conclusion, Active Mobility Economic and Development is an essential componen
 The Directorate will focus on comprehensive resource management, smart production, digital decision-making, smart supply chain, and smart factory for Active Mobility Products with highest quality standard of products and services.
 
 
-## Center for Active Mobility Industry and Startup
-  Center for Active Mobility Industry and Startup arises from the rapidly growing demand for sustainable, environmentally friendly, and technologically advanced solutions for transportation. The active mobility industry, which includes startups, entrepreneurs, and established companies, is playing a critical role in developing new products and services that are revolutionizing the way people move around cities.
+##   Enabling and Encouraging Industry and Startup
+ The Commissionerate would work hand in hand with the Industry to address the rapidly growing demand for sustainable, environmentally friendly, and technologically advanced solutions for transportation. The active mobility industry, which includes startups, entrepreneurs, and established companies, is playing a critical role in developing new products and services that are revolutionizing the way people move around cities.
 
-A Center for Active Mobility Industry and Startup would serve as a hub for research, innovation, and collaboration aimed at supporting the growth and development of the active mobility industry. This may include initiatives such as providing access to funding, mentorship, and other resources for startups and entrepreneurs, promoting collaboration between industry players and academia, and conducting research to identify emerging trends and opportunities in the market.
+ The Commissionerate would serve as a hub for research, innovation, and collaboration aimed at supporting the growth and development of the active mobility industry. This may include initiatives such as providing access to funding, mentorship, and other resources for startups and entrepreneurs, promoting collaboration between industry players and academia, and conducting research to identify emerging trends and opportunities in the market.
 
-The center could also serve as a platform for showcasing new products and services, organizing industry events and conferences, and providing training and education for industry professionals. Ultimately, the center would help drive innovation and growth in the active mobility industry, creating new jobs and economic opportunities, while also contributing to a more sustainable and efficient transportation system.
+The Commissionerate could also serve as a platform for showcasing new products and services, organizing industry events and conferences, and providing training and education for industry professionals. Ultimately, the center would help drive innovation and growth in the active mobility industry, creating new jobs and economic opportunities, while also contributing to a more sustainable and efficient transportation system.
 
 
-- Executive Director: The Executive Director oversees the organization's overall strategy and manages staff, finances, and partnerships with Active mobility Industry. This person should have experience in transportation policy, startup incubation, and non-profit management.
+- oversees the organization's overall strategy and manages staff, finances, and partnerships with Active mobility Industry.  
 
-- Startups and Innovation Manager: The Startups and Innovation Manager works closely with active mobility startups to provide incubation and acceleration services, including mentoring, networking, and funding opportunities. This person should have experience in startup incubation, investment, and technology innovation.
+- works closely with active mobility startups to provide incubation and acceleration services, including mentoring, networking, and funding opportunities.  
 
-- Industry and Partnership Manager: The Industry and Partnership Manager works closely with active mobility industry partners to drive innovation, entrepreneurship, and sustainable transportation solutions. This person should have experience in corporate partnerships, industry collaboration, and business development.
+-   works closely with active mobility industry partners to drive innovation, entrepreneurship, and sustainable transportation solutions.  
 
- - Communications and Marketing Manager: The Communications and Marketing Manager leads the organization's communications and marketing efforts, including branding, public relations, and digital media. This person should have experience in marketing, communications, and social media.
+ -   leads the organization's communications and marketing efforts, including branding, public relations, and digital media.  
 
 ### Funding interventions for startups can include:
 
@@ -57,9 +57,9 @@ The center could also serve as a platform for showcasing new products and servic
 
 
 
-## Appointment of Director for  Bicycle Industry and Micro Mobility in India:
+## Supporting  Bicycle Industry and Micro Mobility in India:
 
-General roles and responsibilities for the Director for Active Mobility - Bicycle Industry and Micro Mobility and Logistics in India specifically related to promoting cycling or the "bicycle bill":
+Bicycle Industry and Micro Mobility and Logistics in India specifically related to promoting cycling or the "bicycle bill":
 
 - Developing and implementing policies, programs, and projects that promote the growth of the bicycle industry and micro mobility sector in India.
 - Collaborating with other government agencies, non-governmental organizations, and industry stakeholders to promote cycling as a mode of transportation and create a supportive business environment for the bicycle industry and micro mobility sector.
@@ -70,4 +70,4 @@ General roles and responsibilities for the Director for Active Mobility - Bicycl
 - Developing and implementing strategies to promote the adoption of bicycle-friendly policies and practices by businesses, governments, and other stakeholders.
 - Providing technical support and expertise to government agencies, industry stakeholders, and other organizations on bicycle industry and micro mobility-related matters.
 
-Overall, the roles and responsibilities of the Director for Active Mobility - Bicycle Industry and Micro Mobility and Logistics in India are to promote the growth of the bicycle industry and micro mobility sector, create supportive policies and programs, develop last-mile delivery solutions, promote the use of bicycles and micro mobility as a sustainable and cost-effective mode of transportation, and provide technical support to stakeholders in the industry.
+Overall, the roles and responsibilities of the The Commissionerate in India are to promote the growth of the bicycle industry and micro mobility sector, create supportive policies and programs, develop last-mile delivery solutions, promote the use of bicycles and micro mobility as a sustainable and cost-effective mode of transportation, and provide technical support to stakeholders in the industry.

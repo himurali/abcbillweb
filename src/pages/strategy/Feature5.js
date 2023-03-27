@@ -18,7 +18,7 @@ export default function Feature5() {
         <p>
           Our goal is to create a sustainable and healthy transportation system
           by promoting active mobility, specifically cycling. We will achieve
-          this through the implementation of an active mobility bill that will
+          this through the implementation of an ABC Bill that will
           provide the necessary infrastructure, policies, and incentives to
           encourage cycling. Active mobility is a sustainable and
           environmentally friendly mode of transportation. As such, it is

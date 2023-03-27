@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
-# Chapter 2A  Cycling - Impact Failure
+# Chapter 5  Active Mobility - Impact Failure
  
 
 ## Cycling - Impact Failure
@@ -34,14 +34,7 @@ In summary, the lack of initiative, stakeholder engagement, political commitment
 
 
 The lack of strength of evidence to support the benefits of active mobility projects, including cycling infrastructure, has been a significant obstacle to promoting active mobility in India. The absence of credible data and research on the economic, social, and health benefits of cycling infrastructure has made it challenging to make the case for investment in such projects. This has resulted in many cycling projects in India being unsuccessful.
-
-However, there have been some successful active mobility projects in India that have demonstrated the potential of such initiatives to transform urban transportation. For example, the Smart City Mission, a flagship initiative of the Indian government, has funded several cycling and pedestrian projects in select cities. Some of these projects have seen significant success, such as the cycle sharing system in Bhopal, which has more than 6,000 cycles and 250 stations, and has been used by more than 1.5 million people since its launch in 2017.
-
-Similarly, the Raahgiri initiative, which started in Gurugram in 2013 and has now spread to several other cities, has created car-free zones on Sundays to promote cycling and walking. The initiative has been highly successful, with thousands of people participating each week, and has been credited with promoting cycling and walking as alternative modes of transportation.
-
-Furthermore, many cities in India are now adopting the "complete streets" approach, which prioritizes pedestrians, cyclists, and public transport users over private vehicles. For example, the city of Chennai has developed a comprehensive non-motorized transport policy that focuses on improving walking and cycling infrastructure.
-
-In conclusion, while many cycling projects in India have failed due to the lack of strength of evidence, there are also examples of successful active mobility projects that have demonstrated the potential of such initiatives to transform urban transportation. It is crucial to gather more data and research on the benefits of active mobility and promote successful projects to build public support and make the case for investment in such initiatives.
+It is crucial to gather more data and research on the benefits of active mobility and promote successful projects to build public support and make the case for investment in such initiatives.
 
 
 

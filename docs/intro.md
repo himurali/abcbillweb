@@ -16,18 +16,21 @@ established international brands. In order to become more competitive in domesti
  
 # Details of the Bill
 1. [Chapter 1 - Title  ](/docs/bill/Chapter1)
-2. [Chapter 2 - Context](/docs/bill/Chapter2)
-2. [Chapter 2A - Impact Failure](/docs/bill/Chapter2A) 
-2. [Chapter 3 -Atmanirbhar Bharat Cycle Mission](/docs/bill/Chapter3)
-4. [Chapter 4 - Funding for Active Mobility](/docs/bill/Chapter4)
-5. [Chapter 5 - Commissionerate  ](/docs/bill/Chapter5)
-6. [Chapter 6 - Manufacturing & Innovation support](/docs/bill/Chapter6)
-7. [Chapter 7 - Asia Velo initiative for Asia ](/docs/bill/Chapter7)
-8. [Chapter 8 - Outcomes ](/docs/bill/Chapter8)
-9. [Chapter 9 ](/docs/bill/Chapter9)
+2. [Chapter 2 - Context, Motivations & Paradigms](/docs/bill/Chapter2)
+2. [Chapter 3 - Dimensions of ABC Bill](/docs/bill/Chapter3) 
+2. [Chapter 4 - Active Mobility Economy](/docs/bill/Chapter4) 
+2. [Chapter 5 - Active Mobility - Impact Failure](/docs/bill/Chapter5)
+4. [Chapter 6 - Atmanirbhar Bharat Cycle Bill Components](/docs/bill/Chapter6)
+5. [Chapter 7 - ABC Commissionerate  ](/docs/bill/Chapter7)
+5. [Chapter 8 - ABC Funding for Active Mobility  ](/docs/bill/Chapter8)
+5. [Chapter 9 - Manufacturing & Innovation support:  ](/docs/bill/Chapter8)
+6. [Chapter 10 - Asia Velo initiative for Asia ](/docs/bill/Chapter9)
+7. [Chapter 11 - Outcomes ](/docs/bill/Chapter10)
+8. [Chapter 12 - Outcomes ](/docs/bill/Chapter8)
+9. [Chapter 13 - References](/docs/bill/Chapter9)
 
 
-# Appendix
+# Appendix A - Commissionerate
 
 10. [Chapter 10 ](#example2)
 11. [Chapter 11 ](#example2)
@@ -47,13 +50,3 @@ established international brands. In order to become more competitive in domesti
 5. [Appenidx C - ABC Impact for health](#fourth-examplehttpwwwfourthexamplecom)
 6. [Appenidx D - ABC expected outcomes ](#fourth-examplehttpwwwfourthexamplecom)
 
-
-
-
-## Create your first React Page
- 
-
-A new page is now available at `http://localhost:3000/my-react-page`.
-
-## Create your first Markdown Page
- 

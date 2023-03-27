@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 ---
 
-# Chapter 2B Pillars of Active Mobility Bill
+# Chapter 6 Pillars of Active Mobility Bill
  
 ## I. Active Mobility Justice
 

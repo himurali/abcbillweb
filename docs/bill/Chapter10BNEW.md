@@ -1,7 +1,7 @@
 ---
-sidebar_position: 6
+sidebar_position: 10
 ---
-# Chapter 6 : Manufacturing & Innovation support  for Active Mobility & Micro Mobility
+# Chapter 10 : Manufacturing & Innovation support  for Active Mobility & Micro Mobility
 
 Manufacturing subsidy and encouragement program, to boost cycle making and design and R&D in Active Mobility:
 

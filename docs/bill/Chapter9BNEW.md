@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 9
 ---
 
-# Chapter 4  Funding for Active Mobility:
+# Chapter 9  Funding for Active Mobility:
 
 - (a) The government shall allocate a budget of  annually for promoting active mobility in India. Budget will be based on a percentage of budget of the total oil import.
 - (b) The funds shall be used for the development of cycling infrastructure, public bicycle-sharing systems, and other initiatives to promote cycling and walking in urban and rural areas.

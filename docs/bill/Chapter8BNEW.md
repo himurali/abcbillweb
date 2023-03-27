@@ -1,7 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 8
 ---
-# Chapter 5 : Commissionerate for Active Mobility
+
+# Chapter 8 : Commissionerate for Active Mobility
 Commissionerate for Active Mobility is a multi-disciplinary organization that is focused on creating safe, accessible, and sustainable active mobility infrastructure and environments. Its structure and key activities are designed to address the various challenges and opportunities associated with promoting active transportation, and to ensure that the needs of all users, including women and children, are considered in planning and implementation.
 
 
@@ -29,6 +30,8 @@ Commissionerate for Active Mobility steer,manage and execute the Active Mobility
 |   | **Steering Active Mobility**  | Objectives and priorities for Active Mobility across Sectors | Strategy  for Active Mobility      across Sectors     | Assurance   of Quality and Availability of Active Mobility   across Sectors         |
 |   | **Managing Active Mobility**  | Policies and standards for Active Mobility   | Planning and execution of Active Mobility| Peer review  of work          |
 |   | **Executing Active Mobility** | Administration and status of Active Mobility | Delivery of Services for Active Mobility              | Technical verification of Services and Products for high quality standards|
+
+## Governing Body
 
 The Govt of India shall appoint a governing body for the effective functioning  of the Commissionerate.
 

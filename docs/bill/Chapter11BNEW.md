@@ -1,7 +1,7 @@
 ---
-sidebar_position: 6
+sidebar_position: 11
 ---
-# Chapter 7 : Asia Velo initiative for Asia 
+# Chapter 11 : Asia Velo initiative for Asia 
 
 Asia is a continent rich in cultural heritage, scenic landscapes, and diverse communities. Yet, despite its potential as a cycling destination, there is currently no comprehensive cycling network that links the heritage sites and cultural destinations across the continent. To address this gap, an Asia Velo initiative is proposed to establish a cycling network across Asia and connect the heritage of the continent.
 
@@ -9,19 +9,19 @@ Asia is a continent rich in cultural heritage, scenic landscapes, and diverse co
 
 The EuroVelo initiative can serve as a valuable inspiration for the development of the Asia Velo initiative. The EuroVelo network is a well-established cycling route network that connects 43 countries across Europe, providing a model for how a comprehensive cycling network can be established across a large geographical area. The following mechanisms could be adopted from the EuroVelo initiative for the planning and implementation of Asia Velo:
 
-## Route Planning: 
+### Route Planning: 
 The EuroVelo network has a clear route planning process that involves identifying and mapping out cycling routes that link cultural and heritage sites. The Asia Velo initiative can adopt a similar approach by engaging with stakeholders to identify potential cycling routes, mapping out these routes, and identifying infrastructure needs.
 
-## Infrastructure Development: 
+### Infrastructure Development: 
 The EuroVelo network has been successful in establishing infrastructure to support the cycling routes, such as dedicated cycling lanes, rest areas, and bike rental facilities. The Asia Velo initiative can adopt a similar approach by partnering with local governments and the private sector to develop infrastructure along the cycling routes.
 
-## Marketing and Promotion: 
+### Marketing and Promotion: 
 The EuroVelo network has a strong marketing and promotion strategy that promotes the cycling routes and attracts tourists to the area. The Asia Velo initiative can adopt a similar approach by developing a comprehensive marketing and promotion strategy that raises awareness about the cycling routes and highlights the cultural and heritage sites along the routes.
 
-## Partnership Building: 
+### Partnership Building: 
 The EuroVelo network has established partnerships with a range of organizations and stakeholders in the cycling and tourism industries to support the development and promotion of the cycling routes. The Asia Velo initiative can adopt a similar approach by building partnerships with bike manufacturers, tourism agencies, and transportation providers to support the establishment and implementation of the cycling network.
 
-## Monitoring and Evaluation: 
+### Monitoring and Evaluation: 
 The EuroVelo network has a system for monitoring and evaluating the effectiveness of the cycling routes, which is important for assessing the impact of the network on tourism, economic development, and sustainability. The Asia Velo initiative can adopt a similar approach by establishing a system for monitoring and evaluating the impact of the cycling network and making necessary adjustments to ensure its success.
 
 In summary, the Asia Velo initiative can learn from the EuroVelo initiative in terms of route planning, infrastructure development, marketing and promotion, partnership building, and monitoring and evaluation. By adopting these mechanisms, the Asia Velo initiative can establish a comprehensive cycling network across Asia that promotes sustainable transportation, cultural exchange, and economic development.

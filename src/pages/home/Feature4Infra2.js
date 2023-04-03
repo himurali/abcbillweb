@@ -29,12 +29,12 @@ export default function Feature4Infra2 () {
  
          <div className="max-w-xl px-16 py-12 lg:max-w-5xl lg:w-1/2">
              <h2 className="text-2xl font-semibold text-gray-800 dark:text-white md:text-3xl">
-            Active Mobility  Governance     <br></br>  
+            Building Effective Active Mobility  Governance     <br></br>  
               
              </h2>
-             <h3 className="text-1xl  text-white">Organizational structure, effective execution, robust budget  <span className="text-1xl  text-blue-500"> create more liveable cities.</span></h3>
+             <h3 className="text-1xl  text-white"> Active Mobility Governance  <span className="text-1xl  text-blue-500"> to create more liveable cities.</span></h3>
              <p className="mt-4 text-gray-500 dark:text-gray-300">
-             Robust budget & finance management.
+             From a non existing governance mechanism for Active Mobility- the bill provides a Robust Organizational Structure, effective execution, robust budget  Robust budget & finance management.
              </p>
  
              <div className="inline-flex w-full mt-6 sm:w-auto">

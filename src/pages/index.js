@@ -5,7 +5,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext"; 
  
 
-import Herosection2 from "./home/Herosection2"
+import Herosection from "./home/Herosection"
 import Feature1 from "./home/Feature1"
 import Feature2 from "./home/Feature2";
 import Feature3 from "./home/Feature3";
@@ -40,7 +40,7 @@ export default function HomePage() {
     >
        
       <main>
-        <Herosection2/>
+        <Herosection/>
         <Feature4Infra2></Feature4Infra2>
 
         <Feature1></Feature1>

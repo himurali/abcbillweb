@@ -9,6 +9,8 @@ import Feature1 from "./Feature1"
 import Feature2 from "./Feature2";
 import Feature3 from "./Feature3";
 import Herosection2 from "./Herosection2";
+import Herosection from "./Herosection";
+
 import Feature4Infra2 from "./Feature4Infra2";
 import Feature5Research from "./Feature5Research";
 
@@ -39,7 +41,7 @@ export default function HomePage() {
        
       <main>
       
-        <Herosection2/>
+        <Herosection/>
         <Feature1></Feature1>
         <Feature2></Feature2>
         <Feature3></Feature3>

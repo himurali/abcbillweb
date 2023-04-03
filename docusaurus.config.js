@@ -127,6 +127,11 @@ const config = {
             label: "Donate",
             position: "right",
           },
+          {
+            href: "https://chng.it/VTJVgd5Wzb",
+            label: "Sign Petition",
+            position: "right",
+          }
         ],
       },
       footer: {

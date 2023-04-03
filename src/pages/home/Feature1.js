@@ -34,13 +34,13 @@ export default function Feature1 () {
          
  
              <h2 className="text-2xl font-semibold text-gray-800 dark:text-white md:text-3xl">
-             Active Mobility  Justice   
+             Providing Active Mobility Justice 
               
              </h2>
-             <h3 className="text-1xl  text-white"> Antyodaya  - Inclusive mobility  <span className="text-1xl  text-blue-500">             build a prosperous and self-reliant economy that benefits all Indians
+             <h3 className="text-1xl  text-white"> Antyodaya  - Inclusive mobility  <span className="text-1xl  text-blue-500">          by building equitable transport    that benefits all Indians
 .</span></h3>
              <p className="mt-4 text-gray-500 dark:text-gray-300">
-             Evidence-based policy and program development             </p>
+             ensure that everyone, regardless of their socio-economic background, has access to safe and reliable active mobility options.          </p>
              
          </div>
      </div>

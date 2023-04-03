@@ -31,12 +31,12 @@ export default function Feature2 () {
   
  
              <h2 className="text-2xl font-semibold text-gray-800 dark:text-white md:text-3xl">
-             Active Mobility  Economy & Development  
+             Create a Robust Active Mobility  Economy & Development  
              </h2>
              <h3 className="text-1xl  text-white">  Atmanirbhar Bharath infrastructure    <span className="text-1xl  text-blue-500">              for bicycle manufacturing 
                 </span></h3>
             <p className="mt-4 text-gray-500 dark:text-gray-300">
-            fostering innovation, entrepreneurship, and collaboration in the bicycle industry 
+            The Bill seeks robust support and push for Fostering innovation, entrepreneurship, and collaboration in the Indian Bicycle & Micro Mobility Industry 
              </p>
          </div>
      </div>
